@@ -1,107 +1,506 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "poolpflege",
+        "name": "Poolpflege",
+        "slug": "poolpflege",
+        "productCategory": "Poolpflege",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "poolfarben & schwimmbeckenfarben",
+        "name": "Poolfarben & Schwimmbeckenfarben",
+        "slug": "poolfarben-schwimmbeckenfarben",
+        "productCategory": "Poolfarben & Schwimmbeckenfarben",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "pooltechnik",
+        "name": "Pooltechnik",
+        "slug": "pooltechnik",
+        "productCategory": "Pooltechnik",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "poolbeleuchtung",
+        "name": "Poolbeleuchtung",
+        "slug": "poolbeleuchtung",
+        "productCategory": "Poolbeleuchtung",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "flexible poolbeleuchtung",
+        "name": "Flexible Poolbeleuchtung",
+        "slug": "flexible-poolbeleuchtung",
+        "productCategory": "Flexible Poolbeleuchtung",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "aufstellpools",
+        "name": "Aufstellpools",
+        "slug": "aufstellpools",
+        "productCategory": "Aufstellpools",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "aufblasbare pools",
+        "name": "Aufblasbare Pools",
+        "slug": "aufblasbare-pools",
+        "productCategory": "Aufblasbare Pools",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "planschbecken",
+        "name": "Planschbecken",
+        "slug": "planschbecken",
+        "productCategory": "Planschbecken",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "flockung",
+        "name": "Flockung",
+        "slug": "flockung",
+        "productCategory": "Flockung",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "pool desinfektion",
+        "name": "Pool Desinfektion",
+        "slug": "pool-desinfektion",
+        "productCategory": "Pool Desinfektion",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
+        "key": "pooltester",
+        "name": "Pooltester",
+        "slug": "pooltester",
+        "productCategory": "Pooltester",
         "subCategories": []
     },
     {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
+        "key": "wasseraufbereitung pool",
+        "name": "Wasseraufbereitung Pool",
+        "slug": "wasseraufbereitung-pool",
+        "productCategory": "Wasseraufbereitung Pool",
         "subCategories": []
     },
     {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
+        "key": "algenbekämpfung pool",
+        "name": "Algenbekämpfung Pool",
+        "slug": "algenbekampfung-pool",
+        "productCategory": "Algenbekämpfung Pool",
         "subCategories": []
     },
     {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
+        "key": "dosierschwimmer & dosierhilfen",
+        "name": "Dosierschwimmer & Dosierhilfen",
+        "slug": "dosierschwimmer-dosierhilfen",
+        "productCategory": "Dosierschwimmer & Dosierhilfen",
         "subCategories": []
     },
     {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "winterpflege",
+        "name": "Winterpflege",
+        "slug": "winterpflege",
+        "productCategory": "Winterpflege",
+        "subCategories": []
+    },
+    {
+        "key": "ph regulierung",
+        "name": "PH Regulierung",
+        "slug": "ph-regulierung",
+        "productCategory": "PH Regulierung",
+        "subCategories": []
+    },
+    {
+        "key": "stahlrahmen pool",
+        "name": "Stahlrahmen Pool",
+        "slug": "stahlrahmen-pool",
+        "productCategory": "Stahlrahmen Pool",
+        "subCategories": []
+    },
+    {
+        "key": "pool abdeckung",
+        "name": "Pool Abdeckung",
+        "slug": "pool-abdeckung",
+        "productCategory": "Pool Abdeckung",
+        "subCategories": []
+    },
+    {
+        "key": "pool abdeckplanen",
+        "name": "Pool Abdeckplanen",
+        "slug": "pool-abdeckplanen",
+        "productCategory": "Pool Abdeckplanen",
+        "subCategories": []
+    },
+    {
+        "key": "stahlwand pool",
+        "name": "Stahlwand Pool",
+        "slug": "stahlwand-pool",
+        "productCategory": "Stahlwand Pool",
+        "subCategories": []
+    },
+    {
+        "key": "family pool",
+        "name": "Family Pool",
+        "slug": "family-pool",
+        "productCategory": "Family Pool",
+        "subCategories": []
+    },
+    {
+        "key": "quick-up pool",
+        "name": "Quick-Up Pool",
+        "slug": "quick-up-pool",
+        "productCategory": "Quick-Up Pool",
+        "subCategories": []
+    },
+    {
+        "key": "pool solarplanen",
+        "name": "Pool Solarplanen",
+        "slug": "pool-solarplanen",
+        "productCategory": "Pool Solarplanen",
+        "subCategories": []
+    },
+    {
+        "key": "poolsalz",
+        "name": "Poolsalz",
+        "slug": "poolsalz",
+        "productCategory": "Poolsalz",
+        "subCategories": []
+    },
+    {
+        "key": "poolfilter",
+        "name": "Poolfilter",
+        "slug": "poolfilter",
+        "productCategory": "Poolfilter",
+        "subCategories": []
+    },
+    {
+        "key": "dosieranlagen",
+        "name": "Dosieranlagen",
+        "slug": "dosieranlagen",
+        "productCategory": "Dosieranlagen",
+        "subCategories": []
+    },
+    {
+        "key": "poolzubehör",
+        "name": "Poolzubehör",
+        "slug": "poolzubehor",
+        "productCategory": "Poolzubehör",
+        "subCategories": []
+    },
+    {
+        "key": "pool installation & fittinge",
+        "name": "Pool Installation & Fittinge",
+        "slug": "pool-installation-fittinge",
+        "productCategory": "Pool Installation & Fittinge",
+        "subCategories": []
+    },
+    {
+        "key": "pool leitern",
+        "name": "Pool Leitern",
+        "slug": "pool-leitern",
+        "productCategory": "Pool Leitern",
+        "subCategories": []
+    },
+    {
+        "key": "holzpool",
+        "name": "Holzpool",
+        "slug": "holzpool",
+        "productCategory": "Holzpool",
+        "subCategories": []
+    },
+    {
+        "key": "outdoor whirlpools",
+        "name": "Outdoor Whirlpools",
+        "slug": "outdoor-whirlpools",
+        "productCategory": "Outdoor Whirlpools",
+        "subCategories": []
+    },
+    {
+        "key": "fester whirlpool",
+        "name": "Fester Whirlpool",
+        "slug": "fester-whirlpool",
+        "productCategory": "Fester Whirlpool",
+        "subCategories": []
+    },
+    {
+        "key": "wasserparks",
+        "name": "Wasserparks",
+        "slug": "wasserparks",
+        "productCategory": "Wasserparks",
+        "subCategories": []
+    },
+    {
+        "key": "aufblasbarer whirlpool",
+        "name": "Aufblasbarer Whirlpool",
+        "slug": "aufblasbarer-whirlpool",
+        "productCategory": "Aufblasbarer Whirlpool",
+        "subCategories": []
+    },
+    {
+        "key": "poolreinigung",
+        "name": "Poolreinigung",
+        "slug": "poolreinigung",
+        "productCategory": "Poolreinigung",
+        "subCategories": []
+    },
+    {
+        "key": "poolbürsten",
+        "name": "Poolbürsten",
+        "slug": "poolbursten",
+        "productCategory": "Poolbürsten",
+        "subCategories": []
+    },
+    {
+        "key": "sandfilteranlagen",
+        "name": "Sandfilteranlagen",
+        "slug": "sandfilteranlagen",
+        "productCategory": "Sandfilteranlagen",
+        "subCategories": []
+    },
+    {
+        "key": "pool handlauf",
+        "name": "Pool Handlauf",
+        "slug": "pool-handlauf",
+        "productCategory": "Pool Handlauf",
+        "subCategories": []
+    },
+    {
+        "key": "poolsauger",
+        "name": "Poolsauger",
+        "slug": "poolsauger",
+        "productCategory": "Poolsauger",
+        "subCategories": []
+    },
+    {
+        "key": "poolzelte",
+        "name": "Poolzelte",
+        "slug": "poolzelte",
+        "productCategory": "Poolzelte",
+        "subCategories": []
+    },
+    {
+        "key": "einbau poolbeleuchtung",
+        "name": "Einbau Poolbeleuchtung",
+        "slug": "einbau-poolbeleuchtung",
+        "productCategory": "Einbau Poolbeleuchtung",
+        "subCategories": []
+    },
+    {
+        "key": "ersatzkartuschen",
+        "name": "Ersatzkartuschen",
+        "slug": "ersatzkartuschen",
+        "productCategory": "Ersatzkartuschen",
+        "subCategories": []
+    },
+    {
+        "key": "sonstiges poolzubehör",
+        "name": "Sonstiges Poolzubehör",
+        "slug": "sonstiges-poolzubehor",
+        "productCategory": "Sonstiges Poolzubehör",
+        "subCategories": []
+    },
+    {
+        "key": "whirlpool zubehör",
+        "name": "Whirlpool Zubehör",
+        "slug": "whirlpool-zubehor",
+        "productCategory": "Whirlpool Zubehör",
+        "subCategories": []
+    },
+    {
+        "key": "whirlpool abdeckungen",
+        "name": "Whirlpool Abdeckungen",
+        "slug": "whirlpool-abdeckungen",
+        "productCategory": "Whirlpool Abdeckungen",
+        "subCategories": []
+    },
+    {
+        "key": "poolroboter",
+        "name": "Poolroboter",
+        "slug": "poolroboter",
+        "productCategory": "Poolroboter",
+        "subCategories": []
+    },
+    {
+        "key": "poolkescher",
+        "name": "Poolkescher",
+        "slug": "poolkescher",
+        "productCategory": "Poolkescher",
+        "subCategories": []
+    },
+    {
+        "key": "bodenschutzmatten pool",
+        "name": "Bodenschutzmatten Pool",
+        "slug": "bodenschutzmatten-pool",
+        "productCategory": "Bodenschutzmatten Pool",
+        "subCategories": []
+    },
+    {
+        "key": "pool reiniger",
+        "name": "Pool Reiniger",
+        "slug": "pool-reiniger",
+        "productCategory": "Pool Reiniger",
+        "subCategories": []
+    },
+    {
+        "key": "pool filtermedien",
+        "name": "Pool Filtermedien",
+        "slug": "pool-filtermedien",
+        "productCategory": "Pool Filtermedien",
+        "subCategories": []
+    },
+    {
+        "key": "pool heizung",
+        "name": "Pool Heizung",
+        "slug": "pool-heizung",
+        "productCategory": "Pool Heizung",
+        "subCategories": []
+    },
+    {
+        "key": "pool wärmepumpen",
+        "name": "Pool Wärmepumpen",
+        "slug": "pool-warmepumpen",
+        "productCategory": "Pool Wärmepumpen",
+        "subCategories": []
+    },
+    {
+        "key": "kartuschenfilter",
+        "name": "Kartuschenfilter",
+        "slug": "kartuschenfilter",
+        "productCategory": "Kartuschenfilter",
+        "subCategories": []
+    },
+    {
+        "key": "outdoor duschen",
+        "name": "Outdoor Duschen",
+        "slug": "outdoor-duschen",
+        "productCategory": "Outdoor Duschen",
+        "subCategories": []
+    },
+    {
+        "key": "pool vlies",
+        "name": "Pool Vlies",
+        "slug": "pool-vlies",
+        "productCategory": "Pool Vlies",
+        "subCategories": []
+    },
+    {
+        "key": "wpc pool",
+        "name": "WPC Pool",
+        "slug": "wpc-pool",
+        "productCategory": "WPC Pool",
+        "subCategories": []
+    },
+    {
+        "key": "poolpumpen",
+        "name": "Poolpumpen",
+        "slug": "poolpumpen",
+        "productCategory": "Poolpumpen",
+        "subCategories": []
+    },
+    {
+        "key": "einbaupool abdeckungen",
+        "name": "Einbaupool Abdeckungen",
+        "slug": "einbaupool-abdeckungen",
+        "productCategory": "Einbaupool Abdeckungen",
+        "subCategories": []
+    },
+    {
+        "key": "pool verrohrung",
+        "name": "Pool Verrohrung",
+        "slug": "pool-verrohrung",
+        "productCategory": "Pool Verrohrung",
+        "subCategories": []
+    },
+    {
+        "key": "pool reparatur",
+        "name": "Pool Reparatur",
+        "slug": "pool-reparatur",
+        "productCategory": "Pool Reparatur",
+        "subCategories": []
+    },
+    {
+        "key": "pool ersatzteile",
+        "name": "Pool Ersatzteile",
+        "slug": "pool-ersatzteile",
+        "productCategory": "Pool Ersatzteile",
+        "subCategories": []
+    },
+    {
+        "key": "poolskimmer",
+        "name": "Poolskimmer",
+        "slug": "poolskimmer",
+        "productCategory": "Poolskimmer",
+        "subCategories": []
+    },
+    {
+        "key": "solarabsorber",
+        "name": "Solarabsorber",
+        "slug": "solarabsorber",
+        "productCategory": "Solarabsorber",
+        "subCategories": []
+    },
+    {
+        "key": "smart pool",
+        "name": "Smart Pool",
+        "slug": "smart-pool",
+        "productCategory": "Smart Pool",
+        "subCategories": []
+    },
+    {
+        "key": "gegenstromanlage",
+        "name": "Gegenstromanlage",
+        "slug": "gegenstromanlage",
+        "productCategory": "Gegenstromanlage",
+        "subCategories": []
+    },
+    {
+        "key": "winterabdeckung",
+        "name": "Winterabdeckung",
+        "slug": "winterabdeckung",
+        "productCategory": "Winterabdeckung",
+        "subCategories": []
+    },
+    {
+        "key": "poolüberdachung",
+        "name": "Poolüberdachung",
+        "slug": "pooluberdachung",
+        "productCategory": "Poolüberdachung",
+        "subCategories": []
+    },
+    {
+        "key": "pool sicherheit",
+        "name": "Pool Sicherheit",
+        "slug": "pool-sicherheit",
+        "productCategory": "Pool Sicherheit",
+        "subCategories": []
+    },
+    {
+        "key": "pooldüsen",
+        "name": "Pooldüsen",
+        "slug": "pooldusen",
+        "productCategory": "Pooldüsen",
+        "subCategories": []
+    },
+    {
+        "key": "pool salzanlage",
+        "name": "Pool Salzanlage",
+        "slug": "pool-salzanlage",
+        "productCategory": "Pool Salzanlage",
+        "subCategories": []
+    },
+    {
+        "key": "einbaupools",
+        "name": "Einbaupools",
+        "slug": "einbaupools",
+        "productCategory": "Einbaupools",
+        "subCategories": []
+    },
+    {
+        "key": "poolbau",
+        "name": "Poolbau",
+        "slug": "poolbau",
+        "productCategory": "Poolbau",
         "subCategories": []
     }
 ]

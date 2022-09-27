@@ -1,17 +1,59 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "obi",
+        "name": "OBI",
+        "slug": "obi",
+        "productCategory": "OBI",
+        "localThumb": "/assets/images/hersteller/obi.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "summer fun",
+        "name": "Summer Fun",
+        "slug": "summer-fun",
+        "productCategory": "Summer Fun",
+        "localThumb": "/assets/images/hersteller/summer-fun.webp"
+    },
+    {
+        "key": "happy people",
+        "name": "Happy People",
+        "slug": "happy-people",
+        "productCategory": "Happy People",
+        "localThumb": "/assets/images/hersteller/happy-people.webp"
+    },
+    {
+        "key": "bayrol",
+        "name": "Bayrol",
+        "slug": "bayrol",
+        "productCategory": "Bayrol",
+        "localThumb": "/assets/images/hersteller/bayrol.webp"
+    },
+    {
+        "key": "bestway",
+        "name": "Bestway",
+        "slug": "bestway",
+        "productCategory": "Bestway",
+        "localThumb": "/assets/images/hersteller/bestway.webp"
+    },
+    {
+        "key": "chemoform",
+        "name": "Chemoform",
+        "slug": "chemoform",
+        "productCategory": "Chemoform",
+        "localThumb": "/assets/images/hersteller/chemoform.webp"
+    },
+    {
+        "key": "planet spa",
+        "name": "Planet Spa",
+        "slug": "planet-spa",
+        "productCategory": "Planet Spa",
+        "localThumb": "/assets/images/hersteller/planet-spa.webp"
+    },
+    {
+        "key": "söll",
+        "name": "Söll",
+        "slug": "soell",
+        "productCategory": "Söll",
+        "localThumb": "/assets/images/hersteller/soell.webp"
     },
     {
         "key": "sonstige",
@@ -21,66 +63,129 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "summer waves",
+        "name": "Summer Waves",
+        "slug": "summer-waves",
+        "productCategory": "Summer Waves",
+        "localThumb": "/assets/images/hersteller/summer-waves.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "weka",
+        "name": "Weka",
+        "slug": "weka",
+        "productCategory": "Weka",
+        "localThumb": "/assets/images/hersteller/weka.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "karibu",
+        "name": "Karibu",
+        "slug": "karibu",
+        "productCategory": "Karibu",
+        "localThumb": "/assets/images/hersteller/karibu.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "gre",
+        "name": "Gre",
+        "slug": "gre",
+        "productCategory": "Gre",
+        "localThumb": "/assets/images/hersteller/gre.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "intex",
+        "name": "Intex",
+        "slug": "intex",
+        "productCategory": "Intex",
+        "localThumb": "/assets/images/hersteller/intex.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
+        "key": "home deluxe",
+        "name": "Home Deluxe",
+        "slug": "home-deluxe",
+        "productCategory": "Home Deluxe",
+        "localThumb": "/assets/images/hersteller/home-deluxe.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "infinite spa",
+        "name": "Infinite Spa",
+        "slug": "infinite-spa",
+        "productCategory": "Infinite Spa",
+        "localThumb": "/assets/images/hersteller/infinite-spa.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "canadian spa",
+        "name": "Canadian Spa",
+        "slug": "canadian-spa",
+        "productCategory": "Canadian Spa",
+        "localThumb": "/assets/images/hersteller/canadian-spa.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "exit toys",
+        "name": "Exit Toys",
+        "slug": "exit-toys",
+        "productCategory": "Exit Toys",
+        "localThumb": "/assets/images/hersteller/exit-toys.webp"
+    },
+    {
+        "key": "heissner",
+        "name": "Heissner",
+        "slug": "heissner",
+        "productCategory": "Heissner",
+        "localThumb": "/assets/images/hersteller/heissner.webp"
+    },
+    {
+        "key": "nordlys",
+        "name": "Nordlys",
+        "slug": "nordlys",
+        "productCategory": "Nordlys",
+        "localThumb": "/assets/images/hersteller/nordlys.webp"
+    },
+    {
+        "key": "gardena",
+        "name": "Gardena",
+        "slug": "gardena",
+        "productCategory": "Gardena",
+        "localThumb": "/assets/images/hersteller/gardena.webp"
+    },
+    {
+        "key": "zodiac",
+        "name": "Zodiac",
+        "slug": "zodiac",
+        "productCategory": "Zodiac",
+        "localThumb": "/assets/images/hersteller/zodiac.webp"
+    },
+    {
+        "key": "steinbach",
+        "name": "Steinbach",
+        "slug": "steinbach",
+        "productCategory": "Steinbach",
+        "localThumb": "/assets/images/hersteller/steinbach.webp"
+    },
+    {
+        "key": "scherf",
+        "name": "Scherf",
+        "slug": "scherf",
+        "productCategory": "Scherf",
+        "localThumb": "/assets/images/hersteller/scherf.webp"
+    },
+    {
+        "key": "breuer",
+        "name": "Breuer",
+        "slug": "breuer",
+        "productCategory": "Breuer",
+        "localThumb": "/assets/images/hersteller/breuer.webp"
+    },
+    {
+        "key": "ubbink",
+        "name": "Ubbink",
+        "slug": "ubbink",
+        "productCategory": "Ubbink",
+        "localThumb": "/assets/images/hersteller/ubbink.webp"
+    },
+    {
+        "key": "lux-tools",
+        "name": "LUX-TOOLS",
+        "slug": "lux-tools",
+        "productCategory": "LUX-TOOLS",
+        "localThumb": "/assets/images/hersteller/lux-tools.webp"
     }
 ]
