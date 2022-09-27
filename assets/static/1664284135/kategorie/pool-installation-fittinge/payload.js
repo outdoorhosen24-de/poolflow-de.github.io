@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/pool-installation-fittinge", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/summer-fun-schlauchschellen-edelstahl-4er-set-30-45-mm-summer-fun-6168256-1.jpg":"\u002Fassets\u002Fimages\u002Fsummer-fun-schlauchschellen-edelstahl-4er-set-30-45-mm-summer-fun-6168256-1.webp"}}],fetch:{},mutations:void 0});
