@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/pool-sicherheit", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/summer-fun-pool-alarm-system-summer-fun-6718423-1.jpg":"\u002Fassets\u002Fimages\u002Fsummer-fun-pool-alarm-system-summer-fun-6718423-1.webp"}}],fetch:{},mutations:void 0});

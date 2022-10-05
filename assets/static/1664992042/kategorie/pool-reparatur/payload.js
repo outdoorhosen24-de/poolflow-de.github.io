@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/pool-reparatur", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/summer-fun-unterwasser-reparatur-set-summer-fun-6168843-1.jpg":"\u002Fassets\u002Fimages\u002Fsummer-fun-unterwasser-reparatur-set-summer-fun-6168843-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/winterpflege", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/summer-fun-pool-winterschutzmittel-1-l-summer-fun-6716070-1.jpg":"\u002Fassets\u002Fimages\u002Fsummer-fun-pool-winterschutzmittel-1-l-summer-fun-6716070-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/scherf", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/scherf-filtersand-hellbeige-071-mm-125-mm-25-kg-pe-sack-scherf-7914427-1.jpg":"\u002Fassets\u002Fimages\u002Fscherf-filtersand-hellbeige-071-mm-125-mm-25-kg-pe-sack-scherf-7914427-1.webp"}}],fetch:{},mutations:void 0});

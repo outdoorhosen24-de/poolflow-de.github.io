@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/einbau-poolbeleuchtung", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/pool-led-licht-18-w-7-farbig-bestway-7858715-1.jpg":"\u002Fassets\u002Fimages\u002Fpool-led-licht-18-w-7-farbig-bestway-7858715-1.webp"}}],fetch:{},mutations:void 0});

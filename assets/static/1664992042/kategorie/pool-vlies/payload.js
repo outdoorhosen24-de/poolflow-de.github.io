@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/pool-vlies", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/summer-fun-pool-bodenschutzvlies-standard-fuer-rundbecken-o-36-m-46-m-summer-fun-6715395-1.jpg":"\u002Fassets\u002Fimages\u002Fsummer-fun-pool-bodenschutzvlies-standard-fuer-rundbecken-o-36-m-46-m-summer-fun-6715395-1.webp"}}],fetch:{},mutations:void 0});
