@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "poolflow.de",
+    "hostname": "https://www.poolflow.de/",
+    "email": "poolflow.desurrealnetworks.io",
+    "organization": "poolflow.de",
+    "logoText": "Poolflow.de",
+    "title": "Pools",
+    "subline": "Der Online Shop f\u00fcr Pools",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "8461030",
+        "6716245",
+        "7125164",
+        "3539707",
+        "3943842",
+        "7125800"
+    ],
+    "winnerProducts": [
+        "8485161",
+        "7583214",
+        "8203887"
+    ],
+    "featuredCategories": [
+        "Pool Handlauf",
+        "Outdoor Duschen",
+        "Pool Ersatzteile",
+        "Family Pool",
+        "Pool Sicherheit",
+        "Stahlrahmen Pool"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Pools",
-        "featureText": "Your featured text goes here",
+        "featureText": "Der Shop ist \u00fcber Pools. Die Pools sind sehr sch\u00f6n und die Preise sind gut. Der Shop ist sehr sauber und die Mitarbeiter sind sehr freundlich.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Pools - Alles rund um den Pool",
+            "metaDescription": "Willkommen bei Pools! Wir sind Ihr Online-Shop f\u00fcr alles rund um das Thema Pools. Von Pool-Zubeh\u00f6r \u00fcber Pool-Chemikalien bis hin zu Pool-Bauanleitungen finden Sie alles bei uns.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Pools: Die sch\u00f6nsten Schwimmbecken Deutschlands",
+                    "text": "Die meisten Menschen lieben es, im Sommer am Pool zu entspannen. Die Sonne scheint und man kann sich im k\u00fchlen Wasser abk\u00fchlen. Doch was ist eigentlich ein Pool? Ein Pool ist ein k\u00fcnstlich angelegter Ort, an dem man schwimmen kann. Pools gibt es in vielen verschiedenen Gr\u00f6\u00dfen und Formen. Die meisten Pools sind rechteckig, aber es gibt auch runde und ovale Pools. Pools k\u00f6nnen aus verschiedenen Materialien wie Beton, Stein, Glas oder Kunststoff hergestellt werden. Die meisten Pools haben eine Tiefe von 1,5 bis 2 Metern.\n\nPools sind ideal f\u00fcr die Erholung und das Training. Im Pool kann man sich nicht nur abk\u00fchlen, sondern auch die Muskeln st\u00e4rken und die Ausdauer verbessern. Viele Menschen schwimmen regelm\u00e4\u00dfig im Pool, um fit zu bleiben.\n\nPools gibt es sowohl in privaten H\u00e4usern als auch in Hotels, Freizeitparks und \u00f6ffentlichen Schwimmb\u00e4dern. In Deutschland gibt es zahlreiche \u00f6ffentliche Schwimmb\u00e4der, in denen man gegen eine geringe Geb\u00fchr schwimmen kann. Die meisten Schwimmb\u00e4der haben auch einen Pool, in dem man sich abk\u00fchlen kann.\n\nWenn Sie einen Pool in Ihrem Garten haben, m\u00fcssen Sie ihn regelm\u00e4\u00dfig reinigen und desinfizieren, damit das Wasser sauber bleibt. Auch die Umgebung des Pools sollte sauber gehalten werden. Die Wasserpumpe des Pools muss regelm\u00e4\u00dfig gewartet werden, damit"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Der Pool-Shop: Alles rund um Pools!",
+            "metaDescription": "Der Pool-Shop bietet alles, was Sie f\u00fcr den Bau, die Wartung und den Betrieb Ihres Pools ben\u00f6tigen.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Hersteller von Pools",
+            "metaDescription": "Willkommen bei unserer Herstellerseite \u00fcber Pools! Wir bieten eine gro\u00dfe Auswahl an Pools in verschiedenen Gr\u00f6\u00dfen, Designs und Ausf\u00fchrungen. Finden Sie den perfekten Pool f\u00fcr Ihr Zuhause oder Ihr Gesch\u00e4ft!",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT: Die besten Pools f\u00fcr Ihren Garten",
+        "defaultMetaDescription": "$PRODUKT, $HERSTELLER und $KATEGORIE - Pools f\u00fcr die ganze Familie. Finden Sie Ihren neuen Pool bei uns!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$KATEGORIE: Die besten Pools f\u00fcr einen erfrischenden Sommer",
+        "defaultMetaDescription": "$KATEGORIE: Finde die richtige Pool Ausstattung f\u00fcr deinen Garten. Ob aufblasbar, mit Stahlwand oder als Schwimmbecken - wir haben die richtige L\u00f6sung f\u00fcr dich.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist ein f\u00fchrender Hersteller von Pools und Zubeh\u00f6r. Wir bieten eine gro\u00dfe Auswahl an Pools und Zubeh\u00f6r f\u00fcr jeden Bedarf.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Pools",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Pools Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Pools Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
