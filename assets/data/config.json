@@ -51,12 +51,15 @@
             "title": "Pools - Alles rund um den Pool",
             "metaDescription": "Willkommen bei Pools! Wir sind Ihr Online-Shop für alles rund um das Thema Pools. Von Pool-Zubehör über Pool-Chemikalien bis hin zu Pool-Bauanleitungen finden Sie alles bei uns.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Pools: Die schönsten Schwimmbecken Deutschlands",
-                    "text": "Die meisten Menschen lieben es, im Sommer am Pool zu entspannen. Die Sonne scheint und man kann sich im kühlen Wasser abkühlen. Doch was ist eigentlich ein Pool? Ein Pool ist ein künstlich angelegter Ort, an dem man schwimmen kann. Pools gibt es in vielen verschiedenen Größen und Formen. Die meisten Pools sind rechteckig, aber es gibt auch runde und ovale Pools. Pools können aus verschiedenen Materialien wie Beton, Stein, Glas oder Kunststoff hergestellt werden. Die meisten Pools haben eine Tiefe von 1,5 bis 2 Metern.\n\nPools sind ideal für die Erholung und das Training. Im Pool kann man sich nicht nur abkühlen, sondern auch die Muskeln stärken und die Ausdauer verbessern. Viele Menschen schwimmen regelmäßig im Pool, um fit zu bleiben.\n\nPools gibt es sowohl in privaten Häusern als auch in Hotels, Freizeitparks und öffentlichen Schwimmbädern. In Deutschland gibt es zahlreiche öffentliche Schwimmbäder, in denen man gegen eine geringe Gebühr schwimmen kann. Die meisten Schwimmbäder haben auch einen Pool, in dem man sich abkühlen kann.\n\nWenn Sie einen Pool in Ihrem Garten haben, müssen Sie ihn regelmäßig reinigen und desinfizieren, damit das Wasser sauber bleibt. Auch die Umgebung des Pools sollte sauber gehalten werden. Die Wasserpumpe des Pools muss regelmäßig gewartet werden, damit"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Pools: Die schönsten Schwimmbecken Deutschlands",
+                        "text": "Die meisten Menschen lieben es, im Sommer am Pool zu entspannen. Die Sonne scheint und man kann sich im kühlen Wasser abkühlen. Doch was ist eigentlich ein Pool? Ein Pool ist ein künstlich angelegter Ort, an dem man schwimmen kann. Pools gibt es in vielen verschiedenen Größen und Formen. Die meisten Pools sind rechteckig, aber es gibt auch runde und ovale Pools. Pools können aus verschiedenen Materialien wie Beton, Stein, Glas oder Kunststoff hergestellt werden. Die meisten Pools haben eine Tiefe von 1,5 bis 2 Metern.\n\nPools sind ideal für die Erholung und das Training. Im Pool kann man sich nicht nur abkühlen, sondern auch die Muskeln stärken und die Ausdauer verbessern. Viele Menschen schwimmen regelmäßig im Pool, um fit zu bleiben.\n\nPools gibt es sowohl in privaten Häusern als auch in Hotels, Freizeitparks und öffentlichen Schwimmbädern. In Deutschland gibt es zahlreiche öffentliche Schwimmbäder, in denen man gegen eine geringe Gebühr schwimmen kann. Die meisten Schwimmbäder haben auch einen Pool, in dem man sich abkühlen kann.\n\nWenn Sie einen Pool in Ihrem Garten haben, müssen Sie ihn regelmäßig reinigen und desinfizieren, damit das Wasser sauber bleibt. Auch die Umgebung des Pools sollte sauber gehalten werden. Die Wasserpumpe des Pools muss regelmäßig gewartet werden, damit"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Der Pool-Shop: Alles rund um Pools!",
