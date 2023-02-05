@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "poolflow.de",
     "hostname": "https://www.poolflow.de/",
     "email": "poolflow.de@surrealnetworks.io",
     "organization": "poolflow.de",
     "logoText": "Poolflow.de",
-    "title": "Pools",
-    "subline": "Der Online Shop für Pools",
+    "title": "Pools & Zubehör",
+    "subline": "Der Online-Shop für alles rundum Pools",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Pools",
-        "featureText": "Der Shop ist über Pools. Die Pools sind sehr schön und die Preise sind gut. Der Shop ist sehr sauber und die Mitarbeiter sind sehr freundlich.",
+        "featureText": "Willkommen in unserem Online-Shop! Wir haben uns auf die Thematik Pools und entsprechendes Zubehör spezialisiert. Bei uns finden Sie neben Holz-, Einbau- und Whirlpools auch aufblasbare Planschbecken sowie jegliches Zubehör für Ihren Pool. Entdecken Sie alles zum Thema Sicherheit, Technik, Abdeckung und Überdachung, Reinigung, Desinfektion, Wärmepumpen, Poolroboter und vieles mehr!",
         "index": {
-            "title": "Pools - Alles rund um den Pool",
-            "metaDescription": "Willkommen bei Pools! Wir sind Ihr Online-Shop für alles rund um das Thema Pools. Von Pool-Zubehör über Pool-Chemikalien bis hin zu Pool-Bauanleitungen finden Sie alles bei uns.",
+            "title": "Pools & Zubehör- Alles rund um den Pool",
+            "metaDescription": "Riesen Auswahl & Faire Preise: Holzpools, Whirpools und entsprechendes Zubehör wie Wärmepumpen, Leitern, Poolfarben, Abdeckungen uvm. Jetzt entdecken!",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Der Pool-Shop: Alles rund um Pools!",
-            "metaDescription": "Der Pool-Shop bietet alles, was Sie für den Bau, die Wartung und den Betrieb Ihres Pools benötigen.",
+            "title": "Poolflow.de | Der Pool-Shop",
+            "metaDescription": "Entdecken Sie in unserem Shop die besten Markenprodukte: Sicher, zuverlässig und langlebig. Alles zum Thema Pools & Zubehör von A-Z.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Hersteller von Pools",
-            "metaDescription": "Willkommen bei unserer Herstellerseite über Pools! Wir bieten eine große Auswahl an Pools in verschiedenen Größen, Designs und Ausführungen. Finden Sie den perfekten Pool für Ihr Zuhause oder Ihr Geschäft!",
+            "title": "Poolflow.de | Top Marken für Pools & Zubehör",
+            "metaDescription": "Überzeugen Sie sich von unseren hochwertigen Marken und deren erstklassigen Qualitätsprodukten. Wir führen Anbieter wie OBI | Home Deluxe | Gardena | uvm.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT: Die besten Pools für Ihren Garten",
-        "defaultMetaDescription": "$PRODUKT, $HERSTELLER und $KATEGORIE - Pools für die ganze Familie. Finden Sie Ihren neuen Pool bei uns!",
+        "defaultTitle": "$PRODUKT | poolflow.de",
+        "defaultMetaDescription": "Entdecken Sie bei uns $PRODUKT vom Hersteller $HERSTELLER und weitere Produkte in der Kategorie $KATEGORIE. Hochwertig & Langlebig.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Die besten Pools für einen erfrischenden Sommer",
-        "defaultMetaDescription": "$KATEGORIE: Finde die richtige Pool Ausstattung für deinen Garten. Ob aufblasbar, mit Stahlwand oder als Schwimmbecken - wir haben die richtige Lösung für dich.",
+        "defaultTitle": "$KATEGORIE: Passende Produkte bei uns entdecken!",
+        "defaultMetaDescription": "Finden Sie das richtige Produkt für Ihren Pool in unserer Kategorie $KATEGORIE: Einfach Online bei uns bestellen und per Mausklick nach Hause liefern lassen.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist ein führender Hersteller von Pools und Zubehör. Wir bieten eine große Auswahl an Pools und Zubehör für jeden Bedarf.",
+        "defaultTitle": "$HERSTELLER - Eine gute Wahl!",
+        "defaultMetaDescription": "In unserem Shop finden Sie die besten Hersteller zum Thema Pools & Zubehhör. Einfach online die Produkte von $HERSTELLER und vielen weiteren entdecken!",
         "defaultRobots": "index, follow",
         "brands": [
             {
