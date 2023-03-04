@@ -86,7 +86,7 @@
     {
         "key": "algenbekämpfung pool",
         "name": "Algenbekämpfung Pool",
-        "slug": "algenbekampfung-pool",
+        "slug": "algenbekaempfung-pool",
         "productCategory": "Algenbekämpfung Pool",
         "subCategories": []
     },
@@ -184,7 +184,7 @@
     {
         "key": "poolzubehör",
         "name": "Poolzubehör",
-        "slug": "poolzubehor",
+        "slug": "poolzubehoer",
         "productCategory": "Poolzubehör",
         "subCategories": []
     },
@@ -247,7 +247,7 @@
     {
         "key": "poolbürsten",
         "name": "Poolbürsten",
-        "slug": "poolbursten",
+        "slug": "poolbuersten",
         "productCategory": "Poolbürsten",
         "subCategories": []
     },
@@ -296,14 +296,14 @@
     {
         "key": "sonstiges poolzubehör",
         "name": "Sonstiges Poolzubehör",
-        "slug": "sonstiges-poolzubehor",
+        "slug": "sonstiges-poolzubehoer",
         "productCategory": "Sonstiges Poolzubehör",
         "subCategories": []
     },
     {
         "key": "whirlpool zubehör",
         "name": "Whirlpool Zubehör",
-        "slug": "whirlpool-zubehor",
+        "slug": "whirlpool-zubehoer",
         "productCategory": "Whirlpool Zubehör",
         "subCategories": []
     },
@@ -359,7 +359,7 @@
     {
         "key": "pool wärmepumpen",
         "name": "Pool Wärmepumpen",
-        "slug": "pool-warmepumpen",
+        "slug": "pool-waermepumpen",
         "productCategory": "Pool Wärmepumpen",
         "subCategories": []
     },
@@ -464,7 +464,7 @@
     {
         "key": "poolüberdachung",
         "name": "Poolüberdachung",
-        "slug": "pooluberdachung",
+        "slug": "poolueberdachung",
         "productCategory": "Poolüberdachung",
         "subCategories": []
     },
@@ -478,7 +478,7 @@
     {
         "key": "pooldüsen",
         "name": "Pooldüsen",
-        "slug": "pooldusen",
+        "slug": "poolduesen",
         "productCategory": "Pooldüsen",
         "subCategories": []
     },
