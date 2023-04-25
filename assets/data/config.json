@@ -1,452 +1,455 @@
 {
-    "configIsReady": true,
-    "domain": "poolflow.de",
-    "hostname": "https://www.poolflow.de/",
-    "email": "poolflow.de@surrealnetworks.io",
-    "organization": "poolflow.de",
-    "logoText": "Poolflow.de",
-    "title": "Pools & Zubehör",
-    "subline": "Der Online-Shop für alles rundum Pools",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "8461030",
-        "6716245",
-        "7125164",
-        "3539707",
-        "3943842",
-        "7125800"
-    ],
-    "winnerProducts": [
-        "8485161",
-        "7583214",
-        "8203887"
-    ],
-    "featuredCategories": [
-        "Pool Handlauf",
-        "Outdoor Duschen",
-        "Pool Ersatzteile",
-        "Family Pool",
-        "Pool Sicherheit",
-        "Stahlrahmen Pool"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Pools",
-        "featureText": "Willkommen in unserem Online-Shop! Wir haben uns auf die Thematik Pools und entsprechendes Zubehör spezialisiert. Bei uns finden Sie neben Holz-, Einbau- und Whirlpools auch aufblasbare Planschbecken sowie jegliches Zubehör für Ihren Pool. Entdecken Sie alles zum Thema Sicherheit, Technik, Abdeckung und Überdachung, Reinigung, Desinfektion, Wärmepumpen, Poolroboter und vieles mehr!",
-        "index": {
-            "title": "Pools & Zubehör- Alles rund um den Pool",
-            "metaDescription": "Riesen Auswahl & Faire Preise: Holzpools, Whirpools und entsprechendes Zubehör wie Wärmepumpen, Leitern, Poolfarben, Abdeckungen uvm. Jetzt entdecken!",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Poolflow - Ihrem Online-Shop für Poolbedarf",
-                        "text": "Wir heißen Sie herzlich willkommen bei Poolflow, Ihrem Online-Shop für alles rund um den Pool. Unser Shop bietet Ihnen eine breite Auswahl an hochwertigen Produkten für die Poolpflege, Pooltechnik, Poolbeleuchtung und vieles mehr. Egal, ob Sie einen Aufstellpool, einen Aufblasbaren Pool oder ein Planschbecken besitzen, bei uns finden Sie alles, was Sie für eine erfolgreiche Pool-Saison benötigen. Unsere Produkte sind von hoher Qualität und sorgen für eine effektive Poolpflege, damit Sie Ihre Freizeit am Pool in vollen Zügen genießen können. Darüber hinaus bieten wir Ihnen eine breite Auswahl an Poolfarben und Schwimmbeckenfarben, damit Sie Ihren Pool in Ihren Lieblingsfarben gestalten können. Entdecken Sie jetzt unser umfangreiches Sortiment und lassen Sie sich von uns überzeugen."
-                    },
-                    {
-                        "title": "Poolpflege",
-                        "text": "Ein Pool ist ein Highlight für jeden Garten und eine tolle Möglichkeit, im Sommer zu entspannen. Um dieses Vergnügen zu erhalten, ist es jedoch wichtig, auf eine regelmäßige <a href=\"/kategorie/poolpflege/\" title=\"Poolpflege\">Poolpflege</a> zu achten. Mit den richtigen Produkten und Werkzeugen kann man den Pool hygienisch sauber halten und sicherstellen, dass das Wasser kristallklar ist. Bei Poolflow finden Sie alles, was Sie für eine effektive Poolpflege benötigen - von Reinigungsmitteln und Skimmnetzen bis hin zu Poolbürsten und Reinigungsrobotern. Stöbern Sie jetzt in unserem Sortiment und entdecken Sie, wie einfach es ist, Ihren Pool in Topform zu halten."
-                    },
-                    {
-                        "title": "Poolfarben & Schwimmbeckenfarben",
-                        "text": "Eine neue Farbe für Ihren Pool oder Ihr Schwimmbecken kann Wunder bewirken und Ihren Garten in eine völlig neue Dimension bringen. Bei Poolflow finden Sie eine breite Palette an Poolfarben und Schwimmbeckenfarben, die sich einfach und schnell anwenden lassen. Ob Sie Ihren Pool in einer trendigen Farbe wie Blau oder Grün streichen möchten oder eine klassische Farbe wie Weiß bevorzugen, bei uns finden Sie garantiert das passende Produkt. Überzeugen Sie sich jetzt selbst von unseren hochwertigen Farben und verleihen Sie Ihrem Pool oder Schwimmbecken ein neues Aussehen."
-                    },
-                    {
-                        "title": "Pooltechnik",
-                        "text": "Die <a href=\"/kategorie/pooltechnik/\" title=\"Pooltechnik\">Pooltechnik</a> ist entscheidend dafür, dass Ihr Pool oder Schwimmbecken einwandfrei funktioniert. Bei Poolflow finden Sie alles, was Sie für eine optimale Pooltechnik benötigen - von Pumpe und Filter bis hin zu Heizung und Überlaufrinne. Unsere hochwertigen Produkte sind robust, langlebig und einfach zu installieren. Ob Sie einen neuen Pool bauen oder Ihren bestehenden Pool aufrüsten möchten, bei uns finden Sie alles, was Sie brauchen. Stöbern Sie jetzt in unserem Sortiment und entdecken Sie, wie einfach es ist, Ihren Pool oder Schwimmbecken in Topform zu halten."
-                    },
-                    {
-                        "title": "Poolbeleuchtung",
-                        "text": "Mit einer <a href=\"/kategorie/poolbeleuchtung/\" title=\"Poolbeleuchtung\">Poolbeleuchtung</a> von Poolflow können Sie Ihren Pool auch in den Abendstunden in ein attraktives Licht tauchen. Ob LED-Beleuchtung, Unterwasser-Strahler oder spezielle Poolbeleuchtungs-Sets, wir bieten Ihnen eine große Auswahl an hochwertigen Produkten. Verleihen Sie Ihrem Pool mit der richtigen Beleuchtung eine ganz besondere Atmosphäre und genießen Sie lange Sommerabende im Wasser."
-                    },
-                    {
-                        "title": "Flexible Poolbeleuchtung",
-                        "text": "Wenn Sie Ihren Pool flexibel beleuchten möchten, sind Sie bei Poolflow genau richtig. Unsere flexiblen Poolbeleuchtungen sind in vielen verschiedenen Ausführungen erhältlich und können einfach angebracht werden. Ob als Spot oder als Streifen, mit flexibler Poolbeleuchtung haben Sie die Möglichkeit, Ihren Pool ganz nach Ihren Wünschen zu beleuchten. Entdecken Sie jetzt unsere große Auswahl an flexiblen Poolbeleuchtungen."
-                    },
-                    {
-                        "title": "Aufstellpools",
-                        "text": "Mit einem Aufstellpool von Poolflow können Sie Ihren Garten in eine Wohlfühloase verwandeln. Ob klassischer Rundpool oder modernes Ovalpool, wir bieten Ihnen eine große Auswahl an hochwertigen Pools in verschiedenen Größen und Formen. Einfach aufstellen, befüllen und genießen – so einfach kann es sein, den Sommer im eigenen Pool zu verbringen. Entdecken Sie jetzt unser umfangreiches Angebot an <a href=\"/kategorie/aufstellpools/\" title=\"Aufstellpools\">Aufstellpools</a>."
-                    },
-                    {
-                        "title": "Aufblasbare Pools",
-                        "text": "<a href=\"/kategorie/aufblasbare-pools/\" title=\"Aufblasbare Pools\">Aufblasbare Pools</a> sind eine bequeme und flexible Alternative zu traditionellen Pools. Bei Poolflow finden Sie eine große Auswahl an aufblasbaren Pools in verschiedenen Größen und Formen. Ob Sie einen Pool für den eigenen Garten oder für den nächsten Urlaub suchen, wir haben die perfekte Lösung für Sie. Alle unsere aufblasbaren Pools sind aus hochwertigen Materialien hergestellt und bieten jahrelangen Badespaß. Stöbern Sie jetzt durch unser Sortiment und entdecken Sie die Vorteile eines aufblasbaren Pools."
-                    },
-                    {
-                        "title": "Planschbecken",
-                        "text": "<a href=\"/kategorie/planschbecken/\" title=\"Planschbecken\">Planschbecken</a> sind eine großartige Möglichkeit, den heißen Sommertagen mit der Familie oder Freunden zu begegnen. Bei Poolflow finden Sie eine breite Palette an Planschbecken in verschiedenen Größen und Designs. Unsere Planschbecken sind aus robusten Materialien gefertigt und bieten jahrelangen Badespaß. Stöbern Sie durch unser Angebot und finden Sie das perfekte Planschbecken für Ihren Garten. Lassen Sie sich von den Vorteilen überzeugen und genießen Sie den Sommer in vollen Zügen."
-                    },
-                    {
-                        "title": "Flockung",
-                        "text": "<a href=\"/kategorie/flockung/\" title=\"Flockung\">Flockung</a> ist ein wichtiger Bestandteil der Poolpflege. Es hilft, das Wasser kristallklar und frei von Verunreinigungen zu halten. Bei Poolflow finden Sie eine große Auswahl an Flockungsmitteln für Ihren Pool. Unsere Flockungsmittel sind einfach in der Anwendung und sorgen für eine optimale Wasserqualität. Stöbern Sie jetzt durch unser Sortiment und entdecken Sie die Vorteile einer effektiven Flockung."
-                    },
-                    {
-                        "title": "Pool Desinfektion",
-                        "text": "Erhalten Sie ein sicheres und hygienisches Badeerlebnis mit der <a href=\"/kategorie/pool-desinfektion/\" title=\"Pool Desinfektion\">Pool Desinfektion</a> von Poolflow. Mit unserem breiten Angebot an Desinfektionslösungen wie Chlor und Brom können Sie das Wasser in Ihrem Pool einfach und effektiv reinigen. Unsere Produkte sind einfach anzuwenden und garantieren eine langanhaltende Sauberkeit. Verlassen Sie sich auf uns, um Ihren Pool hygienisch sauber zu halten."
-                    },
-                    {
-                        "title": "Pooltester",
-                        "text": "Überwachen Sie den chemischen Zustand Ihres Pools mit den <a href=\"/kategorie/pooltester/\" title=\"Pooltester\">Pooltester</a>s von Poolflow. Unsere hochwertigen Pooltester sind einfach zu verwenden und liefern genaue Ergebnisse, damit Sie das perfekte Gleichgewicht Ihres Pools erreichen und aufrechterhalten können. Ob Sie einen Chlor- oder Ph-Tester benötigen, wir haben die richtigen Produkte für Sie. Stellen Sie sicher, dass Ihr Pool immer im optimalen chemischen Zustand ist."
-                    },
-                    {
-                        "title": "Wasseraufbereitung Pool",
-                        "text": "Erreichen Sie ein kristallklares und sicheres Badeerlebnis mit den Produkten zur Wasseraufbereitung von Poolflow. Unsere Wasseraufbereitungslösungen, einschließlich Algenvernichter und Flockungsmittel, sorgen für eine einfache und effektive Reinigung des Wassers in Ihrem Pool. Unsere Produkte sind sicher und einfach anzuwenden und garantieren ein hervorragendes Badeerlebnis. Verlassen Sie sich auf uns, um Ihren Pool in einwandfreiem Zustand zu halten."
-                    },
-                    {
-                        "title": "Algenbekämpfung Pool",
-                        "text": "Algen im Pool sind nicht nur unansehnlich, sondern auch unhygienisch. Mit den richtigen Produkten aus unserer Kategorie <a href=\"/kategorie/algenbekaempfung-pool/\" title=\"Algenbekämpfung Pool\">Algenbekämpfung Pool</a>, können Sie Ihren Pool schnell und einfach von Algen befreien. Wir bieten eine breite Auswahl an Algenbekämpfungsmitteln, von Chlor-basierten Produkten bis hin zu natürlichen Alternativen. Stöbern Sie jetzt durch unsere Produkte und finden Sie das perfekte Mittel für Ihren Pool!"
-                    },
-                    {
-                        "title": "Dosierschwimmer & Dosierhilfen",
-                        "text": "Die Dosierung von Chemikalien im Pool ist von entscheidender Bedeutung für ein hygienisches und kristallklares Wasser. Mit unseren Dosierschwimmern und Dosierhilfen können Sie einfach und präzise die richtige Menge an Chemikalien in Ihren Pool einführen. Wählen Sie aus unserer großen Auswahl an Dosierschwimmern und Zubehör, um Ihre Poolpflege noch einfacher zu gestalten."
-                    },
-                    {
-                        "title": "Winterpflege",
-                        "text": "Wenn die Pool-Saison zu Ende geht, ist es wichtig, Ihren Pool richtig für den Winter vorzubereiten. Unsere Produkte für die <a href=\"/kategorie/winterpflege/\" title=\"Winterpflege\">Winterpflege</a> schützen Ihren Pool vor Frost und Beschädigungen und stellen sicher, dass er im nächsten Sommer in einwandfreiem Zustand ist. Stöbern Sie jetzt durch unsere Auswahl an Winterpflege-Produkten und sorgen Sie dafür, dass Ihr Pool auch in der kalten Jahreszeit gut geschützt ist."
-                    },
-                    {
-                        "title": "PH Regulierung",
-                        "text": "Ein wichtiger Aspekt für ein gesundes und sauberes Schwimmbecken ist die Regulierung des PH-Werts. Bei Poolflow finden Sie eine breite Auswahl an Produkten für die <a href=\"/kategorie/ph-regulierung/\" title=\"PH Regulierung\">PH Regulierung</a>, die einfach und effektiv eingesetzt werden können. Von Teststreifen bis hin zu Flüssigkeitsregulierungen haben wir alles, was Sie für eine perfekte Beckenwasserqualität benötigen."
-                    },
-                    {
-                        "title": "Stahlrahmen Pool",
-                        "text": "<a href=\"/kategorie/stahlrahmen-pool/\" title=\"Stahlrahmen Pool\">Stahlrahmen Pool</a>s sind robust, langlebig und einfach zu installieren. Bei Poolflow finden Sie eine große Auswahl an Stahlrahmen Pools in verschiedenen Größen und Formen. Ob Sie ein Pool für den eigenen Garten oder für den Campingplatz suchen, bei uns werden Sie fündig. Schauen Sie sich jetzt unsere Auswahl an und finden Sie den perfekten Stahlrahmen Pool für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Pool Abdeckung",
-                        "text": "Eine Poolabdeckung ist ein wichtiger Aspekt, um das Schwimmbecken zu schützen und sauber zu halten. Bei Poolflow finden Sie eine breite Auswahl an Poolabdeckungen, die einfach zu installieren und zu verwenden sind. Wählen Sie aus verschiedenen Größen und Materialien, um die perfekte Abdeckung für Ihren Pool zu finden. Schützen Sie Ihr Schwimmbecken vor Laub, Schmutz und Algen, indem Sie jetzt eine Poolabdeckung bei uns kaufen."
-                    },
-                    {
-                        "title": "Pool Abdeckplanen",
-                        "text": "Unser Online-Shop bietet eine große Auswahl an <a href=\"/kategorie/pool-abdeckplanen/\" title=\"Pool Abdeckplanen\">Pool Abdeckplanen</a>. Diese Abdeckungen schützen Ihren Pool vor Schmutz und Licht und tragen zu einer erhöhten Sicherheit bei. Unsere Abdeckplanen sind in verschiedenen Größen und Farben erhältlich, um Ihren individuellen Bedürfnissen gerecht zu werden. Überzeugen Sie sich selbst von unserer Qualität und wählen Sie die passende Abdeckung für Ihren Pool bei Poolflow.de."
-                    },
-                    {
-                        "title": "Stahlwand Pool",
-                        "text": "Bei Poolflow.de finden Sie eine große Auswahl an <a href=\"/kategorie/stahlwand-pool/\" title=\"Stahlwand Pool\">Stahlwand Pool</a>s. Diese Pools sind robust und langlebig und eignen sich perfekt für den Einsatz im Freien. Wir bieten verschiedene Größen und Formen an, um Ihren Bedürfnissen gerecht zu werden. Überzeugen Sie sich selbst von unserer Qualität und wählen Sie den perfekten Stahlwand Pool für Ihren Garten bei Poolflow.de."
-                    },
-                    {
-                        "title": "Family Pool",
-                        "text": "Ein <a href=\"/kategorie/family-pool/\" title=\"Family Pool\">Family Pool</a> ist der perfekte Ort für unbeschwerte Tage mit der Familie. Bei Poolflow.de finden Sie eine große Auswahl an Family Pools in verschiedenen Größen und Formen. Ob Sie einen kleinen Pool für den Einsatz im Garten oder einen großen Pool für den Einsatz im Freien suchen, bei uns werden Sie fündig. Überzeugen Sie sich selbst von unserer Qualität und wählen Sie den perfekten Family Pool bei Poolflow.de."
-                    },
-                    {
-                        "title": "Quick-Up Pool",
-                        "text": "Entdecken Sie die praktische und schnelle Lösung für Ihren Pool: <a href=\"/kategorie/quick-up-pool/\" title=\"Quick-Up Pool\">Quick-Up Pool</a>s. Diese Pools lassen sich einfach aufstellen und bieten Ihnen innerhalb kürzester Zeit ein eigenes Schwimmbad. Wählen Sie aus unserem großen Sortiment an Quick-Up Pools und bereiten Sie sich auf eine erfrischende Badesaison vor. Bei uns finden Sie garantiert das passende Modell für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Pool Solarplanen",
-                        "text": "Schützen Sie Ihren Pool vor Verunreinigungen und UV-Strahlen mit einer Pool Solarplane. Wir bieten Ihnen eine große Auswahl an Solarplanen für alle gängigen Poolgrößen. Die Solarplanen sind einfach aufzustellen und bieten optimalen Schutz für Ihren Pool. Stöbern Sie jetzt durch unsere Produkte und wählen Sie die passende Solarplane für Ihren Pool aus."
-                    },
-                    {
-                        "title": "Poolsalz",
-                        "text": "Erleben Sie das natürliche Badevergnügen mit <a href=\"/kategorie/poolsalz/\" title=\"Poolsalz\">Poolsalz</a>. Poolsalz ist eine umweltfreundliche Alternative zu herkömmlichen Chlorprodukten und sorgt für kristallklares Wasser im Pool. Wir bieten Ihnen eine große Auswahl an Poolsalz-Produkten für eine einfache und effektive Wasseraufbereitung. Entdecken Sie jetzt das natürliche Badevergnügen mit Poolsalz."
-                    },
-                    {
-                        "title": "Poolfilter",
-                        "text": "Die Kategorie <a href=\"/kategorie/poolfilter/\" title=\"Poolfilter\">Poolfilter</a> bei Poolflow bietet eine große Auswahl an hochwertigen Filterlösungen für Ihren Pool. Von Sandfiltern über Kartuschenfilter bis hin zu Filtersets finden Sie bei uns alles, was Sie für eine effektive Poolreinigung benötigen. Unsere Filter sind einfach zu installieren und zu warten und sorgen für kristallklares Wasser im Pool. Überzeugen Sie sich selbst von der Qualität unserer Poolfilter."
-                    },
-                    {
-                        "title": "Dosieranlagen",
-                        "text": "In der Kategorie <a href=\"/kategorie/dosieranlagen/\" title=\"Dosieranlagen\">Dosieranlagen</a> finden Sie bei Poolflow eine breite Palette an Dosierlösungen für Ihren Pool. Von manuellen Dosierpumpen bis hin zu automatischen Dosieranlagen können Sie bei uns das passende Produkt für Ihre Bedürfnisse finden. Die Dosieranlagen von Poolflow sind einfach zu bedienen und sorgen für eine gleichmäßige Verteilung von chemischen Mitteln im Poolwasser. Entdecken Sie jetzt unsere Dosieranlagen und sichern Sie sich kristallklares Wasser im Pool."
-                    },
-                    {
-                        "title": "Poolzubehör",
-                        "text": "Die Kategorie <a href=\"/kategorie/poolzubehoer/\" title=\"Poolzubehör\">Poolzubehör</a> bei Poolflow bietet eine Vielzahl an praktischen Accessoires für Ihren Pool. Von Poolleitern über Poolabdeckungen bis hin zu Poolmöbeln finden Sie bei uns alles, was Sie für eine angenehme Poolzeit benötigen. Unsere Poolzubehör-Produkte sind hochwertig verarbeitet und sorgen für mehr Komfort und Sicherheit im Pool. Entdecken Sie jetzt unser umfangreiches Sortiment an Poolzubehör."
-                    },
-                    {
-                        "title": "Pool Installation & Fittinge",
-                        "text": "Entdecken Sie unsere große Auswahl an <a href=\"/kategorie/pool-installation-fittinge/\" title=\"Pool Installation & Fittinge\">Pool Installation & Fittinge</a>n bei Poolflow. Wir bieten hochwertige Produkte, um Ihnen bei der Installation Ihres Pools zu helfen. Von Armaturen bis hin zu Dichtungen und Adapterbuchsen haben wir alles, was Sie brauchen. Überzeugen Sie sich selbst und wählen Sie jetzt die besten Pool Installation & Fittinge für Ihren Pool aus."
-                    },
-                    {
-                        "title": "Pool Leitern",
-                        "text": "Bei Poolflow finden Sie eine große Auswahl an <a href=\"/kategorie/pool-leitern/\" title=\"Pool Leitern\">Pool Leitern</a> für Ihren Pool. Wir bieten Ihnen sichere und langlebige Leitern, die Ihnen beim Ein- und Aussteigen aus dem Pool helfen. Entdecken Sie unser Sortiment an Pool Leitern und wählen Sie die beste Option für Ihren Pool aus."
-                    },
-                    {
-                        "title": "Holzpool",
-                        "text": "Erleben Sie das natürliche Gefühl eines <a href=\"/kategorie/holzpool/\" title=\"Holzpool\">Holzpool</a>s bei Poolflow. Unsere Holzpools sind aus hochwertigem Material gefertigt und bieten Ihnen ein angenehmes Badeerlebnis. Entdecken Sie unser Sortiment an Holzpools und finden Sie den perfekten Pool für Ihren Garten."
-                    },
-                    {
-                        "title": "Outdoor Whirlpools",
-                        "text": "Entspannen Sie sich in Ihrem eigenen Outdoor Whirlpool von Poolflow.de. Unsere Whirlpools sind aus hochwertigen Materialien hergestellt und bieten Ihnen ein luxuriöses Badeerlebnis. Stöbern Sie durch unsere große Auswahl an Größen und Formen, um den perfekten Whirlpool für Ihren Außenbereich zu finden."
-                    },
-                    {
-                        "title": "Fester Whirlpool",
-                        "text": "Erleben Sie das ultimative Badeerlebnis mit einem fester Whirlpool von Poolflow.de. Unsere Whirlpools sind aus robusten Materialien gebaut und bieten Ihnen jahrelange Freude und Entspannung. Wählen Sie aus einer großen Auswahl an Größen und Formen, um den perfekten Whirlpool für Ihren Bedarf zu finden."
-                    },
-                    {
-                        "title": "Wasserparks",
-                        "text": "Erleben Sie den ultimativen Spaß und Entspannung in einem Wasserpark von Poolflow.de. Unsere <a href=\"/kategorie/wasserparks/\" title=\"Wasserparks\">Wasserparks</a> sind aus hochwertigen Materialien gebaut und bieten Ihnen ein unvergessliches Badeerlebnis. Stöbern Sie durch unsere große Auswahl an Größen und Formen, um den perfekten Wasserpark für Ihren Außenbereich zu finden."
-                    },
-                    {
-                        "title": "Aufblasbarer Whirlpool",
-                        "text": "Erleben Sie das ultimative Badeerlebnis mit unseren aufblasbaren Whirlpools. Unsere Whirlpools sind einfach aufzubauen und zu verwenden, sodass Sie sofort in den Genuss eines entspannenden Bades kommen können. Wir bieten eine breite Palette an Größen und Modellen, die jeden Bedarf und jeden Geschmack erfüllen werden. Besuchen Sie unsere Kategorie '<a href=\"/kategorie/aufblasbarer-whirlpool/\" title=\"Aufblasbarer Whirlpool\">Aufblasbarer Whirlpool</a>' und entdecken Sie Ihren neuen Lieblings-Whirlpool."
-                    },
-                    {
-                        "title": "Poolreinigung",
-                        "text": "Halten Sie Ihren Pool immer sauber und hygienisch mit unseren Produkten für die <a href=\"/kategorie/poolreinigung/\" title=\"Poolreinigung\">Poolreinigung</a>. Wir bieten alles, was Sie benötigen, von Poolreinigungsbürsten bis hin zu Skimmern und Reinigungsrobotern. Unsere Produkte sind einfach zu verwenden und werden Ihnen dabei helfen, Ihren Pool schnell und effizient zu reinigen. Besuchen Sie unsere Kategorie 'Poolreinigung' und finden Sie alles, was Sie für einen sauberen Pool benötigen."
-                    },
-                    {
-                        "title": "Poolbürsten",
-                        "text": "Eine wichtige Aufgabe bei der Poolpflege ist das Reinigen der Wände und des Bodens. Mit unseren hochwertigen <a href=\"/kategorie/poolbuersten/\" title=\"Poolbürsten\">Poolbürsten</a> können Sie diese Aufgabe einfach und effektiv erledigen. Wir bieten eine große Auswahl an Poolbürsten in verschiedenen Größen und Formen, um jeden Bedarf zu erfüllen. Besuchen Sie unsere Kategorie 'Poolbürsten' und finden Sie die perfekte Bürste für Ihren Pool."
-                    },
-                    {
-                        "title": "Sandfilteranlagen",
-                        "text": "Suchen Sie nach einer zuverlässigen und effizienten Methode zur Reinigung Ihres Pools? Schauen Sie sich die <a href=\"/kategorie/sandfilteranlagen/\" title=\"Sandfilteranlagen\">Sandfilteranlagen</a> bei Poolflow.de an. Unsere Sandfilteranlagen sind einfach zu installieren und zu warten, und bieten Ihnen eine langlebige und effiziente Reinigungslösung für Ihr Pool. Stöbern Sie jetzt in unserem Sortiment und finden Sie die perfekte Sandfilteranlage für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Pool Handlauf",
-                        "text": "Sicherheit ist beim Schwimmen im Pool von größter Bedeutung. Ein <a href=\"/kategorie/pool-handlauf/\" title=\"Pool Handlauf\">Pool Handlauf</a> kann Ihnen dabei helfen, dass Sie und Ihre Familie sicher im Pool schwimmen können. Bei Poolflow.de finden Sie eine große Auswahl an Pool Handläufen in verschiedenen Größen und Stilen, damit Sie den perfekten Handlauf für Ihr Pool finden können. Stöbern Sie jetzt in unserem Sortiment und finden Sie den idealen Pool Handlauf für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Poolsauger",
-                        "text": "Ein sauberer Pool ist der Schlüssel zu einem angenehmen Schwimmvergnügen. Ein <a href=\"/kategorie/poolsauger/\" title=\"Poolsauger\">Poolsauger</a> kann Ihnen dabei helfen, dass Ihr Pool sauber und hygienisch bleibt. Bei Poolflow.de finden Sie eine große Auswahl an Poolsaugern in verschiedenen Größen und Stilen, damit Sie den perfekten Poolsauger für Ihre Bedürfnisse finden können. Stöbern Sie jetzt in unserem Sortiment und finden Sie den idealen Poolsauger für Ihren Pool."
-                    },
-                    {
-                        "title": "Poolzelte",
-                        "text": "Entdecken Sie unser großes Angebot an hochwertigen <a href=\"/kategorie/poolzelte/\" title=\"Poolzelte\">Poolzelte</a>n für Ihren Outdoor-Pool. Ob im Sommer oder im Winter, mit einem Poolzelt schützen Sie Ihren Pool vor Wettereinflüssen und halten das Wasser sauber. Wählen Sie aus unserer breiten Auswahl an Größen und Farben, um das perfekte Zelt für Ihren Pool zu finden."
-                    },
-                    {
-                        "title": "Einbau Poolbeleuchtung",
-                        "text": "Erleben Sie Ihren Pool auch nachts in einem völlig neuen Licht. Mit unserer hochwertigen <a href=\"/kategorie/einbau-poolbeleuchtung/\" title=\"Einbau Poolbeleuchtung\">Einbau Poolbeleuchtung</a> können Sie Ihren Pool in eine Oase der Entspannung verwandeln. Wir bieten eine große Auswahl an verschiedenen Farben und Stilen, um Ihren Pool ganz nach Ihren Wünschen zu beleuchten."
-                    },
-                    {
-                        "title": "Ersatzkartuschen",
-                        "text": "Wir haben alles, was Sie für die Reinigung und Wartung Ihres Pools benötigen. Egal, ob Sie <a href=\"/kategorie/ersatzkartuschen/\" title=\"Ersatzkartuschen\">Ersatzkartuschen</a> für Ihren Filter oder Reinigungszubehör benötigen, bei uns werden Sie fündig. Stöbern Sie in unserem umfangreichen Sortiment und entdecken Sie alles, was Sie für einen sauberen und gepflegten Pool benötigen."
-                    },
-                    {
-                        "title": "Sonstiges Poolzubehör",
-                        "text": "Suchen Sie nach einer breiten Auswahl an hochwertigem Poolzubehör? Dann schauen Sie sich unser Sortiment an Sonstigem Poolzubehör an. Hier finden Sie alles, was Sie für den Betrieb und die Pflege Ihres Pools benötigen, von Poolleitern bis hin zu Poolabdeckungen. Wir bieten eine breite Palette von Produkten, die Ihren Pool sicher, sauber und hygienisch halten werden. Kaufen Sie noch heute und profitieren Sie von unseren attraktiven Angeboten und schnellen Lieferzeiten."
-                    },
-                    {
-                        "title": "Whirlpool Zubehör",
-                        "text": "Verwandeln Sie Ihren Whirlpool in ein luxuriöses Erlebnisbad mit unserem breiten Sortiment an Whirlpoolzubehör. Hier finden Sie alles, was Sie benötigen, von Abdeckungen und Leitern bis hin zu Reinigungsprodukten. Unsere hochwertigen Produkte sorgen dafür, dass Ihr Whirlpool jederzeit hygienisch und sicher ist. Stöbern Sie jetzt durch unsere Produkte und finden Sie das perfekte Zubehör für Ihren Whirlpool."
-                    },
-                    {
-                        "title": "Whirlpool Abdeckungen",
-                        "text": "Schützen Sie Ihren Whirlpool vor Schmutz, Blättern und anderen Umwelteinflüssen mit einer unserer hochwertigen Whirlpoolabdeckungen. Unsere Abdeckungen sind robust und langlebig, und bieten gleichzeitig eine hervorragende Isolierung, um Energie und Wärme im Whirlpool zu erhalten. Wir bieten eine breite Palette von Abdeckungen in verschiedenen Größen und Farben, damit Sie die perfekte Abdeckung für Ihren Whirlpool finden können."
-                    },
-                    {
-                        "title": "Poolroboter",
-                        "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/poolroboter/\" title=\"Poolroboter\">Poolroboter</a>n für eine einfache und bequeme Poolreinigung. Unsere Poolroboter sind einfach zu bedienen und effizient in der Reinigung Ihres Pools. Garantiert für ein sauberes und kristallklares Wasser, ohne stundenlanges manuelles Reinigen. Besuchen Sie jetzt unseren Online-Shop, um den perfekten Poolroboter für Ihre Bedürfnisse zu finden."
-                    },
-                    {
-                        "title": "Poolkescher",
-                        "text": "Ein <a href=\"/kategorie/poolkescher/\" title=\"Poolkescher\">Poolkescher</a> ist ein unverzichtbares Werkzeug für jeden Poolbesitzer. Wir bieten eine große Auswahl an Poolkeschern in verschiedenen Größen und Formen, damit Sie den perfekten für Ihre Bedürfnisse finden können. Unsere Poolkescher sind robust und langlebig, damit Sie lange Freude an Ihrem Pool haben. Besuchen Sie jetzt unseren Online-Shop, um den perfekten Poolkescher zu finden."
-                    },
-                    {
-                        "title": "Bodenschutzmatten Pool",
-                        "text": "Schützen Sie den Boden Ihres Pools mit unseren hochwertigen Bodenschutzmatten. Unsere Bodenschutzmatten sind langlebig und bieten eine rutschfeste Oberfläche, um Unfälle im Pool zu vermeiden. Außerdem schützen sie den Boden Ihres Pools vor Schäden durch Stuhlbeine oder andere Gegenstände. Besuchen Sie jetzt unseren Online-Shop, um die perfekte Bodenschutzmatte für Ihren Pool zu finden."
-                    },
-                    {
-                        "title": "Pool Reiniger",
-                        "text": "Mit einem <a href=\"/kategorie/pool-reiniger/\" title=\"Pool Reiniger\">Pool Reiniger</a> von Poolflow.de, können Sie sich umfassend um Ihren Pool kümmern. Die ausgewählten Reiniger sorgen für eine gründliche Reinigung und eine hygienische Wasserqualität. Erhältlich sind unter anderem manuelle oder automatisierte Reinigungssysteme. Entdecken Sie jetzt das umfassende Angebot an Pool Reinigern und verbessern Sie die Pflege Ihres Pools."
-                    },
-                    {
-                        "title": "Pool Filtermedien",
-                        "text": "Eine funktionierende Filteranlage ist für einen sauberen und hygienischen Pool unerlässlich. Poolflow.de bietet Ihnen eine große Auswahl an hochwertigen <a href=\"/kategorie/pool-filtermedien/\" title=\"Pool Filtermedien\">Pool Filtermedien</a>, die für eine optimale Wasserqualität sorgen. Ob Sand, Zeolith oder andere Filtermedien, hier finden Sie garantiert das passende Produkt für Ihre Filteranlage. Überzeugen Sie sich jetzt von der Qualität unserer Pool Filtermedien."
-                    },
-                    {
-                        "title": "Pool Heizung",
-                        "text": "Mit einer <a href=\"/kategorie/pool-heizung/\" title=\"Pool Heizung\">Pool Heizung</a> von Poolflow.de, können Sie Ihren Pool das ganze Jahr über nutzen. Ob Solarheizung, Wärmepumpe oder andere Heizsysteme, hier finden Sie eine große Auswahl an innovativen Lösungen. Entdecken Sie jetzt das umfassende Angebot an Pool Heizungen und erleben Sie unbesorgte Badefreuden in Ihrem eigenen Pool."
-                    },
-                    {
-                        "title": "Pool Wärmepumpen",
-                        "text": "Erhöhen Sie den Komfort in Ihrem Pool mit einer Pool Wärmepumpe von Poolflow.de. Unsere Wärmepumpen sind energiesparend und langlebig und sorgen für eine angenehme Wassertemperatur. Stöbern Sie jetzt durch unser Sortiment und finden Sie die perfekte Lösung für Ihren Pool."
-                    },
-                    {
-                        "title": "Kartuschenfilter",
-                        "text": "Mit den <a href=\"/kategorie/kartuschenfilter/\" title=\"Kartuschenfilter\">Kartuschenfilter</a>n von Poolflow.de haben Sie eine effiziente Lösung für die Reinigung Ihres Pools. Unsere Kartuschenfilter sind einfach zu installieren und zu warten und sorgen für kristallklares Wasser. Stöbern Sie jetzt durch unser Sortiment und finden Sie den perfekten Kartuschenfilter für Ihren Pool."
-                    },
-                    {
-                        "title": "Outdoor Duschen",
-                        "text": "Erfrischen Sie sich nach einem erholsamen Bad im Pool mit einer Outdoor Dusche von Poolflow.de. Unsere <a href=\"/kategorie/outdoor-duschen/\" title=\"Outdoor Duschen\">Outdoor Duschen</a> sind robust und langlebig und bieten eine angenehme Möglichkeit, sich nach dem Schwimmen abzukühlen. Stöbern Sie jetzt durch unser Sortiment und finden Sie die perfekte Outdoor Dusche für Ihren Pool."
-                    },
-                    {
-                        "title": "Pool Vlies",
-                        "text": "Das <a href=\"/kategorie/pool-vlies/\" title=\"Pool Vlies\">Pool Vlies</a> von Poolflow.de ist die perfekte Lösung für den Schutz Ihres Pools. Es schützt den Boden Ihres Pools vor Beschädigungen und verlängert die Lebensdauer Ihres Pools. Das Vlies ist einfach zu installieren und leicht zu reinigen. Es ist auch langlebig und robust, so dass Sie es jahrelang nutzen können. Schauen Sie sich jetzt das Pool Vlies auf Poolflow.de an und entdecken Sie die Vorteile für Ihren Pool."
-                    },
-                    {
-                        "title": "WPC Pool",
-                        "text": "Der <a href=\"/kategorie/wpc-pool/\" title=\"WPC Pool\">WPC Pool</a> auf Poolflow.de bietet Ihnen eine moderne und langlebige Option für den Bau Ihres eigenen Pools. Dieser Pool besteht aus WPC, einem hochwertigen Material, das robust und langlebig ist. Es ist auch pflegeleicht und widerstandsfähig gegen Witterungseinflüsse. Mit einem WPC Pool von Poolflow.de können Sie sicher sein, dass Sie einen Pool haben, der jahrelang hält. Schauen Sie sich jetzt die WPC Pool-Optionen auf Poolflow.de an."
-                    },
-                    {
-                        "title": "Poolpumpen",
-                        "text": "Die <a href=\"/kategorie/poolpumpen/\" title=\"Poolpumpen\">Poolpumpen</a> auf Poolflow.de sind die perfekte Lösung für den Betrieb Ihres Pools. Sie sorgen für eine optimale Wasserzirkulation und ermöglichen eine effektive Reinigung des Pools. Die Poolpumpen sind auch energiesparend und langlebig, so dass Sie lange Freude an Ihrem Pool haben werden. Schauen Sie sich jetzt die Poolpumpen auf Poolflow.de an und finden Sie die perfekte Lösung für Ihren Pool."
-                    },
-                    {
-                        "title": "Einbaupool Abdeckungen",
-                        "text": "Entdecken Sie bei Poolflow.de eine große Auswahl an <a href=\"/kategorie/einbaupool-abdeckungen/\" title=\"Einbaupool Abdeckungen\">Einbaupool Abdeckungen</a>. Wir bieten Ihnen hochwertige Abdeckungen für Ihren Einbaupool, damit Sie Ihr Poolwasser sauber und geschützt halten können. Unsere Abdeckungen sind langlebig und einfach zu installieren. Schauen Sie sich jetzt unser Angebot an und finden Sie die perfekte Abdeckung für Ihren Pool."
-                    },
-                    {
-                        "title": "Pool Verrohrung",
-                        "text": "Bei Poolflow.de finden Sie alles, was Sie für die Verrohrung Ihres Pools benötigen. Unser Sortiment umfasst hochwertige Verrohrungen in verschiedenen Größen und Materialien, damit Sie Ihren Pool optimal verrohren können. Überzeugen Sie sich selbst von unserer großen Auswahl und finden Sie die perfekte Verrohrung für Ihren Pool."
-                    },
-                    {
-                        "title": "Pool Reparatur",
-                        "text": "Haben Sie ein Problem mit Ihrem Pool? Kein Problem, bei Poolflow.de finden Sie alles, was Sie für die Reparatur Ihres Pools benötigen. Von Ersatzteilen bis hin zu Reparaturanleitungen haben wir alles, was Sie brauchen. Überzeugen Sie sich selbst von unserem umfassenden Angebot und reparieren Sie Ihren Pool schnell und einfach."
-                    },
-                    {
-                        "title": "Pool Ersatzteile",
-                        "text": "Suchen Sie nach hochwertigen <a href=\"/kategorie/pool-ersatzteile/\" title=\"Pool Ersatzteile\">Pool Ersatzteile</a>n für Ihr Schwimmbad? Dann sind Sie bei uns genau richtig! Bei Poolflow finden Sie eine große Auswahl an Ersatzteilen für Pools in bester Qualität. Ob Sie ein neues Ventil, eine neue Pumpe oder einen Ersatzfilter benötigen - bei uns werden Sie fündig. Stöbern Sie jetzt in unserem Sortiment und finden Sie das passende Ersatzteil für Ihr Pool!"
-                    },
-                    {
-                        "title": "Poolskimmer",
-                        "text": "Ein <a href=\"/kategorie/poolskimmer/\" title=\"Poolskimmer\">Poolskimmer</a> ist ein unverzichtbares Zubehör für jedes Schwimmbad. Er sorgt dafür, dass das Wasser sauber und frei von Blättern, Insekten und anderen Partikeln bleibt. Bei Poolflow finden Sie eine große Auswahl an Poolskimmern in verschiedenen Größen und Ausführungen. Wählen Sie das passende Modell für Ihren Pool und garantieren Sie sich und Ihren Gästen stets sauberes Wasser. Stöbern Sie jetzt in unserem Sortiment!"
-                    },
-                    {
-                        "title": "Solarabsorber",
-                        "text": "Suchen Sie nach einer effektiven und umweltfreundlichen Möglichkeit, Ihr Schwimmbad zu beheizen? Dann sind <a href=\"/kategorie/solarabsorber/\" title=\"Solarabsorber\">Solarabsorber</a> die perfekte Lösung für Sie! Bei Poolflow finden Sie eine große Auswahl an Solarabsorbern in bester Qualität. Diese absorbieren die Sonnenenergie und nutzen sie, um das Wasser im Pool aufzuheizen. So können Sie jederzeit angenehm warmes Wasser genießen, ohne dabei unnötig Energie zu verschwenden. Stöbern Sie jetzt in unserem Sortiment!"
-                    },
-                    {
-                        "title": "Smart Pool",
-                        "text": "Entdecken Sie die neuesten Technologien im Bereich <a href=\"/kategorie/smart-pool/\" title=\"Smart Pool\">Smart Pool</a>s bei Poolflow.de. Wir bieten eine breite Auswahl an innovativen und vernetzten Lösungen für Ihren Pool, um das Schwimmen noch angenehmer und bequemer zu gestalten. Von automatischer Reinigung bis hin zur ferngesteuerten Regulierung der Wassertemperatur, bleiben keine Wünsche offen. Besuchen Sie uns jetzt und machen Sie Ihren Pool smart!"
-                    },
-                    {
-                        "title": "Gegenstromanlage",
-                        "text": "Erleben Sie ein unvergessliches Schwimmvergnügen mit einer <a href=\"/kategorie/gegenstromanlage/\" title=\"Gegenstromanlage\">Gegenstromanlage</a>. Poolflow.de bietet Ihnen eine breite Auswahl an hochwertigen und zuverlässigen Gegenstromanlagen, die ein realistisches Freiwasserschwimmen im eigenen Pool ermöglichen. Von kompakten und preisgünstigen Modellen bis hin zu high-end Anlagen, finden Sie bei uns genau das Richtige für Ihre Bedürfnisse. Besuchen Sie uns jetzt und genießen Sie das Schwimmvergnügen!"
-                    },
-                    {
-                        "title": "Winterabdeckung",
-                        "text": "Schützen Sie Ihren Pool vor Schäden in der kalten Jahreszeit mit einer <a href=\"/kategorie/winterabdeckung/\" title=\"Winterabdeckung\">Winterabdeckung</a>. Poolflow.de bietet Ihnen eine große Auswahl an hochwertigen und langlebigen Winterabdeckungen, die Ihren Pool vor Schmutz, Laub und anderen Umwelteinflüssen schützen. Von einfachen und preisgünstigen Lösungen bis hin zu robusten und langlebigen Abdeckungen, finden Sie bei uns genau das Richtige. Besuchen Sie uns jetzt und sichern Sie Ihren Pool!"
-                    },
-                    {
-                        "title": "Poolüberdachung",
-                        "text": "Entdecken Sie unser umfangreiches Angebot an <a href=\"/kategorie/poolueberdachung/\" title=\"Poolüberdachung\">Poolüberdachung</a>en bei Poolflow.de. Wir bieten eine Vielzahl von Optionen für jeden Bedarf, einschließlich festen und beweglichen Überdachungen. Schützen Sie Ihren Pool vor den Elementen und erhöhen Sie die Sicherheit mit einer Poolüberdachung von Poolflow.de."
-                    },
-                    {
-                        "title": "Pool Sicherheit",
-                        "text": "Sicherheit geht bei Poolflow.de immer vor. Entdecken Sie unser Angebot an <a href=\"/kategorie/pool-sicherheit/\" title=\"Pool Sicherheit\">Pool Sicherheit</a>sprodukten wie Alarmsysteme, Abdeckungen und Geländer. Vermeiden Sie Unfälle und geben Sie sich und Ihren Lieben die Gewissheit, dass Ihr Pool sicher ist. Stöbern Sie jetzt durch unsere Auswahl an Pool Sicherheitsprodukten."
-                    },
-                    {
-                        "title": "Pooldüsen",
-                        "text": "Verbessern Sie Ihre Pool-Erfahrung mit den richtigen <a href=\"/kategorie/poolduesen/\" title=\"Pooldüsen\">Pooldüsen</a>. Bei Poolflow.de bieten wir eine breite Palette an Pooldüsen, einschließlich Massagedüsen, Bodendüsen und Strömungsdüsen. Entdecken Sie jetzt unsere Auswahl und finden Sie die perfekten Pooldüsen, um Ihren Pool auf die nächste Stufe zu bringen."
-                    },
-                    {
-                        "title": "Pool Salzanlage",
-                        "text": "Die <a href=\"/kategorie/pool-salzanlage/\" title=\"Pool Salzanlage\">Pool Salzanlage</a> ist eine moderne Art, das Wasser in Ihrem Pool zu reinigen und hygienisch zu halten. Mit einer Pool Salzanlage können Sie sicher sein, dass das Wasser in Ihrem Pool stets frisch und sauber ist. Auf Poolflow.de finden Sie eine breite Auswahl an hochwertigen Pool Salzanlagen, die Ihnen eine einfache und effektive Reinigung garantieren. Egal ob Sie einen großen oder kleinen Pool besitzen, bei uns finden Sie die passende Pool Salzanlage für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Einbaupools",
-                        "text": "<a href=\"/kategorie/einbaupools/\" title=\"Einbaupools\">Einbaupools</a> bieten Ihnen die Möglichkeit, Ihren Garten in eine eigene Wohlfühloase zu verwandeln. Bei Poolflow.de finden Sie eine große Auswahl an hochwertigen Einbaupools, die Ihnen maximale Flexibilität und individuelle Gestaltungsmöglichkeiten bieten. Ob rund, oval oder rechteckig, wir haben für jeden Bedarf das passende Einbaupool. Überzeugen Sie sich selbst und entdecken Sie jetzt unser Sortiment an Einbaupools auf Poolflow.de."
-                    },
-                    {
-                        "title": "Poolbau",
-                        "text": "Der <a href=\"/kategorie/poolbau/\" title=\"Poolbau\">Poolbau</a> ist ein großes Projekt, das sorgfältige Planung und Umsetzung erfordert. Bei Poolflow.de finden Sie alles, was Sie für den Bau Ihres eigenen Pools benötigen. Von Poolfolien über Poolpumpen bis hin zu Poolzubehör bieten wir Ihnen eine breite Auswahl an hochwertigen Produkten zu attraktiven Preisen. Lassen Sie sich von uns inspirieren und starten Sie jetzt mit dem Bau Ihres eigenen Pools auf Poolflow.de."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Poolflow.de | Der Pool-Shop",
-            "metaDescription": "Entdecken Sie in unserem Shop die besten Markenprodukte: Sicher, zuverlässig und langlebig. Alles zum Thema Pools & Zubehör von A-Z.",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Poolflow.de | Top Marken für Pools & Zubehör",
-            "metaDescription": "Überzeugen Sie sich von unseren hochwertigen Marken und deren erstklassigen Qualitätsprodukten. Wir führen Anbieter wie OBI | Home Deluxe | Gardena | uvm.",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT | poolflow.de",
-        "defaultMetaDescription": "Entdecken Sie bei uns $PRODUKT vom Hersteller $HERSTELLER und weitere Produkte in der Kategorie $KATEGORIE. Hochwertig & Langlebig.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "poolflow.de",
+  "hostname": "https://www.poolflow.de/",
+  "email": "poolflow.de@surrealnetworks.io",
+  "organization": "poolflow.de",
+  "logoText": "Poolflow.de",
+  "title": "Pools & Zubeh\u00f6r",
+  "subline": "Der Online-Shop f\u00fcr alles rundum Pools",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "8461030",
+    "6716245",
+    "7125164",
+    "3539707",
+    "3943842",
+    "7125800"
+  ],
+  "winnerProducts": [
+    "8485161",
+    "7583214",
+    "8203887"
+  ],
+  "featuredCategories": [
+    "Pool Handlauf",
+    "Outdoor Duschen",
+    "Pool Ersatzteile",
+    "Family Pool",
+    "Pool Sicherheit",
+    "Stahlrahmen Pool"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Pools",
+    "featureText": "Willkommen in unserem Online-Shop! Wir haben uns auf die Thematik Pools und entsprechendes Zubeh\u00f6r spezialisiert. Bei uns finden Sie neben Holz-, Einbau- und Whirlpools auch aufblasbare Planschbecken sowie jegliches Zubeh\u00f6r f\u00fcr Ihren Pool. Entdecken Sie alles zum Thema Sicherheit, Technik, Abdeckung und \u00dcberdachung, Reinigung, Desinfektion, W\u00e4rmepumpen, Poolroboter und vieles mehr!",
+    "index": {
+      "title": "Pools & Zubeh\u00f6r- Alles rund um den Pool",
+      "metaDescription": "Riesen Auswahl & Faire Preise: Holzpools, Whirpools und entsprechendes Zubeh\u00f6r wie W\u00e4rmepumpen, Leitern, Poolfarben, Abdeckungen uvm. Jetzt entdecken!",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei Poolflow - Ihrem Online-Shop f\u00fcr Poolbedarf",
+            "text": "Wir hei\u00dfen Sie herzlich willkommen bei Poolflow, Ihrem Online-Shop f\u00fcr alles rund um den Pool. Unser Shop bietet Ihnen eine breite Auswahl an hochwertigen Produkten f\u00fcr die Poolpflege, Pooltechnik, Poolbeleuchtung und vieles mehr. Egal, ob Sie einen Aufstellpool, einen Aufblasbaren Pool oder ein Planschbecken besitzen, bei uns finden Sie alles, was Sie f\u00fcr eine erfolgreiche Pool-Saison ben\u00f6tigen. Unsere Produkte sind von hoher Qualit\u00e4t und sorgen f\u00fcr eine effektive Poolpflege, damit Sie Ihre Freizeit am Pool in vollen Z\u00fcgen genie\u00dfen k\u00f6nnen. Dar\u00fcber hinaus bieten wir Ihnen eine breite Auswahl an Poolfarben und Schwimmbeckenfarben, damit Sie Ihren Pool in Ihren Lieblingsfarben gestalten k\u00f6nnen. Entdecken Sie jetzt unser umfangreiches Sortiment und lassen Sie sich von uns \u00fcberzeugen."
+          },
+          {
+            "title": "Poolpflege",
+            "text": "Ein Pool ist ein Highlight f\u00fcr jeden Garten und eine tolle M\u00f6glichkeit, im Sommer zu entspannen. Um dieses Vergn\u00fcgen zu erhalten, ist es jedoch wichtig, auf eine regelm\u00e4\u00dfige <a href=\"/kategorie/poolpflege/\" title=\"Poolpflege\">Poolpflege</a> zu achten. Mit den richtigen Produkten und Werkzeugen kann man den Pool hygienisch sauber halten und sicherstellen, dass das Wasser kristallklar ist. Bei Poolflow finden Sie alles, was Sie f\u00fcr eine effektive Poolpflege ben\u00f6tigen - von Reinigungsmitteln und Skimmnetzen bis hin zu Poolb\u00fcrsten und Reinigungsrobotern. St\u00f6bern Sie jetzt in unserem Sortiment und entdecken Sie, wie einfach es ist, Ihren Pool in Topform zu halten."
+          },
+          {
+            "title": "Poolfarben & Schwimmbeckenfarben",
+            "text": "Eine neue Farbe f\u00fcr Ihren Pool oder Ihr Schwimmbecken kann Wunder bewirken und Ihren Garten in eine v\u00f6llig neue Dimension bringen. Bei Poolflow finden Sie eine breite Palette an Poolfarben und Schwimmbeckenfarben, die sich einfach und schnell anwenden lassen. Ob Sie Ihren Pool in einer trendigen Farbe wie Blau oder Gr\u00fcn streichen m\u00f6chten oder eine klassische Farbe wie Wei\u00df bevorzugen, bei uns finden Sie garantiert das passende Produkt. \u00dcberzeugen Sie sich jetzt selbst von unseren hochwertigen Farben und verleihen Sie Ihrem Pool oder Schwimmbecken ein neues Aussehen."
+          },
+          {
+            "title": "Pooltechnik",
+            "text": "Die <a href=\"/kategorie/pooltechnik/\" title=\"Pooltechnik\">Pooltechnik</a> ist entscheidend daf\u00fcr, dass Ihr Pool oder Schwimmbecken einwandfrei funktioniert. Bei Poolflow finden Sie alles, was Sie f\u00fcr eine optimale Pooltechnik ben\u00f6tigen - von Pumpe und Filter bis hin zu Heizung und \u00dcberlaufrinne. Unsere hochwertigen Produkte sind robust, langlebig und einfach zu installieren. Ob Sie einen neuen Pool bauen oder Ihren bestehenden Pool aufr\u00fcsten m\u00f6chten, bei uns finden Sie alles, was Sie brauchen. St\u00f6bern Sie jetzt in unserem Sortiment und entdecken Sie, wie einfach es ist, Ihren Pool oder Schwimmbecken in Topform zu halten."
+          },
+          {
+            "title": "Poolbeleuchtung",
+            "text": "Mit einer <a href=\"/kategorie/poolbeleuchtung/\" title=\"Poolbeleuchtung\">Poolbeleuchtung</a> von Poolflow k\u00f6nnen Sie Ihren Pool auch in den Abendstunden in ein attraktives Licht tauchen. Ob LED-Beleuchtung, Unterwasser-Strahler oder spezielle Poolbeleuchtungs-Sets, wir bieten Ihnen eine gro\u00dfe Auswahl an hochwertigen Produkten. Verleihen Sie Ihrem Pool mit der richtigen Beleuchtung eine ganz besondere Atmosph\u00e4re und genie\u00dfen Sie lange Sommerabende im Wasser."
+          },
+          {
+            "title": "Flexible Poolbeleuchtung",
+            "text": "Wenn Sie Ihren Pool flexibel beleuchten m\u00f6chten, sind Sie bei Poolflow genau richtig. Unsere flexiblen Poolbeleuchtungen sind in vielen verschiedenen Ausf\u00fchrungen erh\u00e4ltlich und k\u00f6nnen einfach angebracht werden. Ob als Spot oder als Streifen, mit flexibler Poolbeleuchtung haben Sie die M\u00f6glichkeit, Ihren Pool ganz nach Ihren W\u00fcnschen zu beleuchten. Entdecken Sie jetzt unsere gro\u00dfe Auswahl an flexiblen Poolbeleuchtungen."
+          },
+          {
+            "title": "Aufstellpools",
+            "text": "Mit einem Aufstellpool von Poolflow k\u00f6nnen Sie Ihren Garten in eine Wohlf\u00fchloase verwandeln. Ob klassischer Rundpool oder modernes Ovalpool, wir bieten Ihnen eine gro\u00dfe Auswahl an hochwertigen Pools in verschiedenen Gr\u00f6\u00dfen und Formen. Einfach aufstellen, bef\u00fcllen und genie\u00dfen \u2013 so einfach kann es sein, den Sommer im eigenen Pool zu verbringen. Entdecken Sie jetzt unser umfangreiches Angebot an <a href=\"/kategorie/aufstellpools/\" title=\"Aufstellpools\">Aufstellpools</a>."
+          },
+          {
+            "title": "Aufblasbare Pools",
+            "text": "<a href=\"/kategorie/aufblasbare-pools/\" title=\"Aufblasbare Pools\">Aufblasbare Pools</a> sind eine bequeme und flexible Alternative zu traditionellen Pools. Bei Poolflow finden Sie eine gro\u00dfe Auswahl an aufblasbaren Pools in verschiedenen Gr\u00f6\u00dfen und Formen. Ob Sie einen Pool f\u00fcr den eigenen Garten oder f\u00fcr den n\u00e4chsten Urlaub suchen, wir haben die perfekte L\u00f6sung f\u00fcr Sie. Alle unsere aufblasbaren Pools sind aus hochwertigen Materialien hergestellt und bieten jahrelangen Badespa\u00df. St\u00f6bern Sie jetzt durch unser Sortiment und entdecken Sie die Vorteile eines aufblasbaren Pools."
+          },
+          {
+            "title": "Planschbecken",
+            "text": "<a href=\"/kategorie/planschbecken/\" title=\"Planschbecken\">Planschbecken</a> sind eine gro\u00dfartige M\u00f6glichkeit, den hei\u00dfen Sommertagen mit der Familie oder Freunden zu begegnen. Bei Poolflow finden Sie eine breite Palette an Planschbecken in verschiedenen Gr\u00f6\u00dfen und Designs. Unsere Planschbecken sind aus robusten Materialien gefertigt und bieten jahrelangen Badespa\u00df. St\u00f6bern Sie durch unser Angebot und finden Sie das perfekte Planschbecken f\u00fcr Ihren Garten. Lassen Sie sich von den Vorteilen \u00fcberzeugen und genie\u00dfen Sie den Sommer in vollen Z\u00fcgen."
+          },
+          {
+            "title": "Flockung",
+            "text": "<a href=\"/kategorie/flockung/\" title=\"Flockung\">Flockung</a> ist ein wichtiger Bestandteil der Poolpflege. Es hilft, das Wasser kristallklar und frei von Verunreinigungen zu halten. Bei Poolflow finden Sie eine gro\u00dfe Auswahl an Flockungsmitteln f\u00fcr Ihren Pool. Unsere Flockungsmittel sind einfach in der Anwendung und sorgen f\u00fcr eine optimale Wasserqualit\u00e4t. St\u00f6bern Sie jetzt durch unser Sortiment und entdecken Sie die Vorteile einer effektiven Flockung."
+          },
+          {
+            "title": "Pool Desinfektion",
+            "text": "Erhalten Sie ein sicheres und hygienisches Badeerlebnis mit der <a href=\"/kategorie/pool-desinfektion/\" title=\"Pool Desinfektion\">Pool Desinfektion</a> von Poolflow. Mit unserem breiten Angebot an Desinfektionsl\u00f6sungen wie Chlor und Brom k\u00f6nnen Sie das Wasser in Ihrem Pool einfach und effektiv reinigen. Unsere Produkte sind einfach anzuwenden und garantieren eine langanhaltende Sauberkeit. Verlassen Sie sich auf uns, um Ihren Pool hygienisch sauber zu halten."
+          },
+          {
+            "title": "Pooltester",
+            "text": "\u00dcberwachen Sie den chemischen Zustand Ihres Pools mit den <a href=\"/kategorie/pooltester/\" title=\"Pooltester\">Pooltester</a>s von Poolflow. Unsere hochwertigen Pooltester sind einfach zu verwenden und liefern genaue Ergebnisse, damit Sie das perfekte Gleichgewicht Ihres Pools erreichen und aufrechterhalten k\u00f6nnen. Ob Sie einen Chlor- oder Ph-Tester ben\u00f6tigen, wir haben die richtigen Produkte f\u00fcr Sie. Stellen Sie sicher, dass Ihr Pool immer im optimalen chemischen Zustand ist."
+          },
+          {
+            "title": "Wasseraufbereitung Pool",
+            "text": "Erreichen Sie ein kristallklares und sicheres Badeerlebnis mit den Produkten zur Wasseraufbereitung von Poolflow. Unsere Wasseraufbereitungsl\u00f6sungen, einschlie\u00dflich Algenvernichter und Flockungsmittel, sorgen f\u00fcr eine einfache und effektive Reinigung des Wassers in Ihrem Pool. Unsere Produkte sind sicher und einfach anzuwenden und garantieren ein hervorragendes Badeerlebnis. Verlassen Sie sich auf uns, um Ihren Pool in einwandfreiem Zustand zu halten."
+          },
+          {
+            "title": "Algenbek\u00e4mpfung Pool",
+            "text": "Algen im Pool sind nicht nur unansehnlich, sondern auch unhygienisch. Mit den richtigen Produkten aus unserer Kategorie <a href=\"/kategorie/algenbekaempfung-pool/\" title=\"Algenbek\u00e4mpfung Pool\">Algenbek\u00e4mpfung Pool</a>, k\u00f6nnen Sie Ihren Pool schnell und einfach von Algen befreien. Wir bieten eine breite Auswahl an Algenbek\u00e4mpfungsmitteln, von Chlor-basierten Produkten bis hin zu nat\u00fcrlichen Alternativen. St\u00f6bern Sie jetzt durch unsere Produkte und finden Sie das perfekte Mittel f\u00fcr Ihren Pool!"
+          },
+          {
+            "title": "Dosierschwimmer & Dosierhilfen",
+            "text": "Die Dosierung von Chemikalien im Pool ist von entscheidender Bedeutung f\u00fcr ein hygienisches und kristallklares Wasser. Mit unseren Dosierschwimmern und Dosierhilfen k\u00f6nnen Sie einfach und pr\u00e4zise die richtige Menge an Chemikalien in Ihren Pool einf\u00fchren. W\u00e4hlen Sie aus unserer gro\u00dfen Auswahl an Dosierschwimmern und Zubeh\u00f6r, um Ihre Poolpflege noch einfacher zu gestalten."
+          },
+          {
+            "title": "Winterpflege",
+            "text": "Wenn die Pool-Saison zu Ende geht, ist es wichtig, Ihren Pool richtig f\u00fcr den Winter vorzubereiten. Unsere Produkte f\u00fcr die <a href=\"/kategorie/winterpflege/\" title=\"Winterpflege\">Winterpflege</a> sch\u00fctzen Ihren Pool vor Frost und Besch\u00e4digungen und stellen sicher, dass er im n\u00e4chsten Sommer in einwandfreiem Zustand ist. St\u00f6bern Sie jetzt durch unsere Auswahl an Winterpflege-Produkten und sorgen Sie daf\u00fcr, dass Ihr Pool auch in der kalten Jahreszeit gut gesch\u00fctzt ist."
+          },
+          {
+            "title": "PH Regulierung",
+            "text": "Ein wichtiger Aspekt f\u00fcr ein gesundes und sauberes Schwimmbecken ist die Regulierung des PH-Werts. Bei Poolflow finden Sie eine breite Auswahl an Produkten f\u00fcr die <a href=\"/kategorie/ph-regulierung/\" title=\"PH Regulierung\">PH Regulierung</a>, die einfach und effektiv eingesetzt werden k\u00f6nnen. Von Teststreifen bis hin zu Fl\u00fcssigkeitsregulierungen haben wir alles, was Sie f\u00fcr eine perfekte Beckenwasserqualit\u00e4t ben\u00f6tigen."
+          },
+          {
+            "title": "Stahlrahmen Pool",
+            "text": "<a href=\"/kategorie/stahlrahmen-pool/\" title=\"Stahlrahmen Pool\">Stahlrahmen Pool</a>s sind robust, langlebig und einfach zu installieren. Bei Poolflow finden Sie eine gro\u00dfe Auswahl an Stahlrahmen Pools in verschiedenen Gr\u00f6\u00dfen und Formen. Ob Sie ein Pool f\u00fcr den eigenen Garten oder f\u00fcr den Campingplatz suchen, bei uns werden Sie f\u00fcndig. Schauen Sie sich jetzt unsere Auswahl an und finden Sie den perfekten Stahlrahmen Pool f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Pool Abdeckung",
+            "text": "Eine Poolabdeckung ist ein wichtiger Aspekt, um das Schwimmbecken zu sch\u00fctzen und sauber zu halten. Bei Poolflow finden Sie eine breite Auswahl an Poolabdeckungen, die einfach zu installieren und zu verwenden sind. W\u00e4hlen Sie aus verschiedenen Gr\u00f6\u00dfen und Materialien, um die perfekte Abdeckung f\u00fcr Ihren Pool zu finden. Sch\u00fctzen Sie Ihr Schwimmbecken vor Laub, Schmutz und Algen, indem Sie jetzt eine Poolabdeckung bei uns kaufen."
+          },
+          {
+            "title": "Pool Abdeckplanen",
+            "text": "Unser Online-Shop bietet eine gro\u00dfe Auswahl an <a href=\"/kategorie/pool-abdeckplanen/\" title=\"Pool Abdeckplanen\">Pool Abdeckplanen</a>. Diese Abdeckungen sch\u00fctzen Ihren Pool vor Schmutz und Licht und tragen zu einer erh\u00f6hten Sicherheit bei. Unsere Abdeckplanen sind in verschiedenen Gr\u00f6\u00dfen und Farben erh\u00e4ltlich, um Ihren individuellen Bed\u00fcrfnissen gerecht zu werden. \u00dcberzeugen Sie sich selbst von unserer Qualit\u00e4t und w\u00e4hlen Sie die passende Abdeckung f\u00fcr Ihren Pool bei Poolflow.de."
+          },
+          {
+            "title": "Stahlwand Pool",
+            "text": "Bei Poolflow.de finden Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/stahlwand-pool/\" title=\"Stahlwand Pool\">Stahlwand Pool</a>s. Diese Pools sind robust und langlebig und eignen sich perfekt f\u00fcr den Einsatz im Freien. Wir bieten verschiedene Gr\u00f6\u00dfen und Formen an, um Ihren Bed\u00fcrfnissen gerecht zu werden. \u00dcberzeugen Sie sich selbst von unserer Qualit\u00e4t und w\u00e4hlen Sie den perfekten Stahlwand Pool f\u00fcr Ihren Garten bei Poolflow.de."
+          },
+          {
+            "title": "Family Pool",
+            "text": "Ein <a href=\"/kategorie/family-pool/\" title=\"Family Pool\">Family Pool</a> ist der perfekte Ort f\u00fcr unbeschwerte Tage mit der Familie. Bei Poolflow.de finden Sie eine gro\u00dfe Auswahl an Family Pools in verschiedenen Gr\u00f6\u00dfen und Formen. Ob Sie einen kleinen Pool f\u00fcr den Einsatz im Garten oder einen gro\u00dfen Pool f\u00fcr den Einsatz im Freien suchen, bei uns werden Sie f\u00fcndig. \u00dcberzeugen Sie sich selbst von unserer Qualit\u00e4t und w\u00e4hlen Sie den perfekten Family Pool bei Poolflow.de."
+          },
+          {
+            "title": "Quick-Up Pool",
+            "text": "Entdecken Sie die praktische und schnelle L\u00f6sung f\u00fcr Ihren Pool: <a href=\"/kategorie/quick-up-pool/\" title=\"Quick-Up Pool\">Quick-Up Pool</a>s. Diese Pools lassen sich einfach aufstellen und bieten Ihnen innerhalb k\u00fcrzester Zeit ein eigenes Schwimmbad. W\u00e4hlen Sie aus unserem gro\u00dfen Sortiment an Quick-Up Pools und bereiten Sie sich auf eine erfrischende Badesaison vor. Bei uns finden Sie garantiert das passende Modell f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Pool Solarplanen",
+            "text": "Sch\u00fctzen Sie Ihren Pool vor Verunreinigungen und UV-Strahlen mit einer Pool Solarplane. Wir bieten Ihnen eine gro\u00dfe Auswahl an Solarplanen f\u00fcr alle g\u00e4ngigen Poolgr\u00f6\u00dfen. Die Solarplanen sind einfach aufzustellen und bieten optimalen Schutz f\u00fcr Ihren Pool. St\u00f6bern Sie jetzt durch unsere Produkte und w\u00e4hlen Sie die passende Solarplane f\u00fcr Ihren Pool aus."
+          },
+          {
+            "title": "Poolsalz",
+            "text": "Erleben Sie das nat\u00fcrliche Badevergn\u00fcgen mit <a href=\"/kategorie/poolsalz/\" title=\"Poolsalz\">Poolsalz</a>. Poolsalz ist eine umweltfreundliche Alternative zu herk\u00f6mmlichen Chlorprodukten und sorgt f\u00fcr kristallklares Wasser im Pool. Wir bieten Ihnen eine gro\u00dfe Auswahl an Poolsalz-Produkten f\u00fcr eine einfache und effektive Wasseraufbereitung. Entdecken Sie jetzt das nat\u00fcrliche Badevergn\u00fcgen mit Poolsalz."
+          },
+          {
+            "title": "Poolfilter",
+            "text": "Die Kategorie <a href=\"/kategorie/poolfilter/\" title=\"Poolfilter\">Poolfilter</a> bei Poolflow bietet eine gro\u00dfe Auswahl an hochwertigen Filterl\u00f6sungen f\u00fcr Ihren Pool. Von Sandfiltern \u00fcber Kartuschenfilter bis hin zu Filtersets finden Sie bei uns alles, was Sie f\u00fcr eine effektive Poolreinigung ben\u00f6tigen. Unsere Filter sind einfach zu installieren und zu warten und sorgen f\u00fcr kristallklares Wasser im Pool. \u00dcberzeugen Sie sich selbst von der Qualit\u00e4t unserer Poolfilter."
+          },
+          {
+            "title": "Dosieranlagen",
+            "text": "In der Kategorie <a href=\"/kategorie/dosieranlagen/\" title=\"Dosieranlagen\">Dosieranlagen</a> finden Sie bei Poolflow eine breite Palette an Dosierl\u00f6sungen f\u00fcr Ihren Pool. Von manuellen Dosierpumpen bis hin zu automatischen Dosieranlagen k\u00f6nnen Sie bei uns das passende Produkt f\u00fcr Ihre Bed\u00fcrfnisse finden. Die Dosieranlagen von Poolflow sind einfach zu bedienen und sorgen f\u00fcr eine gleichm\u00e4\u00dfige Verteilung von chemischen Mitteln im Poolwasser. Entdecken Sie jetzt unsere Dosieranlagen und sichern Sie sich kristallklares Wasser im Pool."
+          },
+          {
+            "title": "Poolzubeh\u00f6r",
+            "text": "Die Kategorie <a href=\"/kategorie/poolzubehoer/\" title=\"Poolzubeh\u00f6r\">Poolzubeh\u00f6r</a> bei Poolflow bietet eine Vielzahl an praktischen Accessoires f\u00fcr Ihren Pool. Von Poolleitern \u00fcber Poolabdeckungen bis hin zu Poolm\u00f6beln finden Sie bei uns alles, was Sie f\u00fcr eine angenehme Poolzeit ben\u00f6tigen. Unsere Poolzubeh\u00f6r-Produkte sind hochwertig verarbeitet und sorgen f\u00fcr mehr Komfort und Sicherheit im Pool. Entdecken Sie jetzt unser umfangreiches Sortiment an Poolzubeh\u00f6r."
+          },
+          {
+            "title": "Pool Installation & Fittinge",
+            "text": "Entdecken Sie unsere gro\u00dfe Auswahl an <a href=\"/kategorie/pool-installation-fittinge/\" title=\"Pool Installation & Fittinge\">Pool Installation & Fittinge</a>n bei Poolflow. Wir bieten hochwertige Produkte, um Ihnen bei der Installation Ihres Pools zu helfen. Von Armaturen bis hin zu Dichtungen und Adapterbuchsen haben wir alles, was Sie brauchen. \u00dcberzeugen Sie sich selbst und w\u00e4hlen Sie jetzt die besten Pool Installation & Fittinge f\u00fcr Ihren Pool aus."
+          },
+          {
+            "title": "Pool Leitern",
+            "text": "Bei Poolflow finden Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/pool-leitern/\" title=\"Pool Leitern\">Pool Leitern</a> f\u00fcr Ihren Pool. Wir bieten Ihnen sichere und langlebige Leitern, die Ihnen beim Ein- und Aussteigen aus dem Pool helfen. Entdecken Sie unser Sortiment an Pool Leitern und w\u00e4hlen Sie die beste Option f\u00fcr Ihren Pool aus."
+          },
+          {
+            "title": "Holzpool",
+            "text": "Erleben Sie das nat\u00fcrliche Gef\u00fchl eines <a href=\"/kategorie/holzpool/\" title=\"Holzpool\">Holzpool</a>s bei Poolflow. Unsere Holzpools sind aus hochwertigem Material gefertigt und bieten Ihnen ein angenehmes Badeerlebnis. Entdecken Sie unser Sortiment an Holzpools und finden Sie den perfekten Pool f\u00fcr Ihren Garten."
+          },
+          {
+            "title": "Outdoor Whirlpools",
+            "text": "Entspannen Sie sich in Ihrem eigenen Outdoor Whirlpool von Poolflow.de. Unsere Whirlpools sind aus hochwertigen Materialien hergestellt und bieten Ihnen ein luxuri\u00f6ses Badeerlebnis. St\u00f6bern Sie durch unsere gro\u00dfe Auswahl an Gr\u00f6\u00dfen und Formen, um den perfekten Whirlpool f\u00fcr Ihren Au\u00dfenbereich zu finden."
+          },
+          {
+            "title": "Fester Whirlpool",
+            "text": "Erleben Sie das ultimative Badeerlebnis mit einem fester Whirlpool von Poolflow.de. Unsere Whirlpools sind aus robusten Materialien gebaut und bieten Ihnen jahrelange Freude und Entspannung. W\u00e4hlen Sie aus einer gro\u00dfen Auswahl an Gr\u00f6\u00dfen und Formen, um den perfekten Whirlpool f\u00fcr Ihren Bedarf zu finden."
+          },
+          {
+            "title": "Wasserparks",
+            "text": "Erleben Sie den ultimativen Spa\u00df und Entspannung in einem Wasserpark von Poolflow.de. Unsere <a href=\"/kategorie/wasserparks/\" title=\"Wasserparks\">Wasserparks</a> sind aus hochwertigen Materialien gebaut und bieten Ihnen ein unvergessliches Badeerlebnis. St\u00f6bern Sie durch unsere gro\u00dfe Auswahl an Gr\u00f6\u00dfen und Formen, um den perfekten Wasserpark f\u00fcr Ihren Au\u00dfenbereich zu finden."
+          },
+          {
+            "title": "Aufblasbarer Whirlpool",
+            "text": "Erleben Sie das ultimative Badeerlebnis mit unseren aufblasbaren Whirlpools. Unsere Whirlpools sind einfach aufzubauen und zu verwenden, sodass Sie sofort in den Genuss eines entspannenden Bades kommen k\u00f6nnen. Wir bieten eine breite Palette an Gr\u00f6\u00dfen und Modellen, die jeden Bedarf und jeden Geschmack erf\u00fcllen werden. Besuchen Sie unsere Kategorie '<a href=\"/kategorie/aufblasbarer-whirlpool/\" title=\"Aufblasbarer Whirlpool\">Aufblasbarer Whirlpool</a>' und entdecken Sie Ihren neuen Lieblings-Whirlpool."
+          },
+          {
+            "title": "Poolreinigung",
+            "text": "Halten Sie Ihren Pool immer sauber und hygienisch mit unseren Produkten f\u00fcr die <a href=\"/kategorie/poolreinigung/\" title=\"Poolreinigung\">Poolreinigung</a>. Wir bieten alles, was Sie ben\u00f6tigen, von Poolreinigungsb\u00fcrsten bis hin zu Skimmern und Reinigungsrobotern. Unsere Produkte sind einfach zu verwenden und werden Ihnen dabei helfen, Ihren Pool schnell und effizient zu reinigen. Besuchen Sie unsere Kategorie 'Poolreinigung' und finden Sie alles, was Sie f\u00fcr einen sauberen Pool ben\u00f6tigen."
+          },
+          {
+            "title": "Poolb\u00fcrsten",
+            "text": "Eine wichtige Aufgabe bei der Poolpflege ist das Reinigen der W\u00e4nde und des Bodens. Mit unseren hochwertigen <a href=\"/kategorie/poolbuersten/\" title=\"Poolb\u00fcrsten\">Poolb\u00fcrsten</a> k\u00f6nnen Sie diese Aufgabe einfach und effektiv erledigen. Wir bieten eine gro\u00dfe Auswahl an Poolb\u00fcrsten in verschiedenen Gr\u00f6\u00dfen und Formen, um jeden Bedarf zu erf\u00fcllen. Besuchen Sie unsere Kategorie 'Poolb\u00fcrsten' und finden Sie die perfekte B\u00fcrste f\u00fcr Ihren Pool."
+          },
+          {
+            "title": "Sandfilteranlagen",
+            "text": "Suchen Sie nach einer zuverl\u00e4ssigen und effizienten Methode zur Reinigung Ihres Pools? Schauen Sie sich die <a href=\"/kategorie/sandfilteranlagen/\" title=\"Sandfilteranlagen\">Sandfilteranlagen</a> bei Poolflow.de an. Unsere Sandfilteranlagen sind einfach zu installieren und zu warten, und bieten Ihnen eine langlebige und effiziente Reinigungsl\u00f6sung f\u00fcr Ihr Pool. St\u00f6bern Sie jetzt in unserem Sortiment und finden Sie die perfekte Sandfilteranlage f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Pool Handlauf",
+            "text": "Sicherheit ist beim Schwimmen im Pool von gr\u00f6\u00dfter Bedeutung. Ein <a href=\"/kategorie/pool-handlauf/\" title=\"Pool Handlauf\">Pool Handlauf</a> kann Ihnen dabei helfen, dass Sie und Ihre Familie sicher im Pool schwimmen k\u00f6nnen. Bei Poolflow.de finden Sie eine gro\u00dfe Auswahl an Pool Handl\u00e4ufen in verschiedenen Gr\u00f6\u00dfen und Stilen, damit Sie den perfekten Handlauf f\u00fcr Ihr Pool finden k\u00f6nnen. St\u00f6bern Sie jetzt in unserem Sortiment und finden Sie den idealen Pool Handlauf f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Poolsauger",
+            "text": "Ein sauberer Pool ist der Schl\u00fcssel zu einem angenehmen Schwimmvergn\u00fcgen. Ein <a href=\"/kategorie/poolsauger/\" title=\"Poolsauger\">Poolsauger</a> kann Ihnen dabei helfen, dass Ihr Pool sauber und hygienisch bleibt. Bei Poolflow.de finden Sie eine gro\u00dfe Auswahl an Poolsaugern in verschiedenen Gr\u00f6\u00dfen und Stilen, damit Sie den perfekten Poolsauger f\u00fcr Ihre Bed\u00fcrfnisse finden k\u00f6nnen. St\u00f6bern Sie jetzt in unserem Sortiment und finden Sie den idealen Poolsauger f\u00fcr Ihren Pool."
+          },
+          {
+            "title": "Poolzelte",
+            "text": "Entdecken Sie unser gro\u00dfes Angebot an hochwertigen <a href=\"/kategorie/poolzelte/\" title=\"Poolzelte\">Poolzelte</a>n f\u00fcr Ihren Outdoor-Pool. Ob im Sommer oder im Winter, mit einem Poolzelt sch\u00fctzen Sie Ihren Pool vor Wettereinfl\u00fcssen und halten das Wasser sauber. W\u00e4hlen Sie aus unserer breiten Auswahl an Gr\u00f6\u00dfen und Farben, um das perfekte Zelt f\u00fcr Ihren Pool zu finden."
+          },
+          {
+            "title": "Einbau Poolbeleuchtung",
+            "text": "Erleben Sie Ihren Pool auch nachts in einem v\u00f6llig neuen Licht. Mit unserer hochwertigen <a href=\"/kategorie/einbau-poolbeleuchtung/\" title=\"Einbau Poolbeleuchtung\">Einbau Poolbeleuchtung</a> k\u00f6nnen Sie Ihren Pool in eine Oase der Entspannung verwandeln. Wir bieten eine gro\u00dfe Auswahl an verschiedenen Farben und Stilen, um Ihren Pool ganz nach Ihren W\u00fcnschen zu beleuchten."
+          },
+          {
+            "title": "Ersatzkartuschen",
+            "text": "Wir haben alles, was Sie f\u00fcr die Reinigung und Wartung Ihres Pools ben\u00f6tigen. Egal, ob Sie <a href=\"/kategorie/ersatzkartuschen/\" title=\"Ersatzkartuschen\">Ersatzkartuschen</a> f\u00fcr Ihren Filter oder Reinigungszubeh\u00f6r ben\u00f6tigen, bei uns werden Sie f\u00fcndig. St\u00f6bern Sie in unserem umfangreichen Sortiment und entdecken Sie alles, was Sie f\u00fcr einen sauberen und gepflegten Pool ben\u00f6tigen."
+          },
+          {
+            "title": "Sonstiges Poolzubeh\u00f6r",
+            "text": "Suchen Sie nach einer breiten Auswahl an hochwertigem Poolzubeh\u00f6r? Dann schauen Sie sich unser Sortiment an Sonstigem Poolzubeh\u00f6r an. Hier finden Sie alles, was Sie f\u00fcr den Betrieb und die Pflege Ihres Pools ben\u00f6tigen, von Poolleitern bis hin zu Poolabdeckungen. Wir bieten eine breite Palette von Produkten, die Ihren Pool sicher, sauber und hygienisch halten werden. Kaufen Sie noch heute und profitieren Sie von unseren attraktiven Angeboten und schnellen Lieferzeiten."
+          },
+          {
+            "title": "Whirlpool Zubeh\u00f6r",
+            "text": "Verwandeln Sie Ihren Whirlpool in ein luxuri\u00f6ses Erlebnisbad mit unserem breiten Sortiment an Whirlpoolzubeh\u00f6r. Hier finden Sie alles, was Sie ben\u00f6tigen, von Abdeckungen und Leitern bis hin zu Reinigungsprodukten. Unsere hochwertigen Produkte sorgen daf\u00fcr, dass Ihr Whirlpool jederzeit hygienisch und sicher ist. St\u00f6bern Sie jetzt durch unsere Produkte und finden Sie das perfekte Zubeh\u00f6r f\u00fcr Ihren Whirlpool."
+          },
+          {
+            "title": "Whirlpool Abdeckungen",
+            "text": "Sch\u00fctzen Sie Ihren Whirlpool vor Schmutz, Bl\u00e4ttern und anderen Umwelteinfl\u00fcssen mit einer unserer hochwertigen Whirlpoolabdeckungen. Unsere Abdeckungen sind robust und langlebig, und bieten gleichzeitig eine hervorragende Isolierung, um Energie und W\u00e4rme im Whirlpool zu erhalten. Wir bieten eine breite Palette von Abdeckungen in verschiedenen Gr\u00f6\u00dfen und Farben, damit Sie die perfekte Abdeckung f\u00fcr Ihren Whirlpool finden k\u00f6nnen."
+          },
+          {
+            "title": "Poolroboter",
+            "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/poolroboter/\" title=\"Poolroboter\">Poolroboter</a>n f\u00fcr eine einfache und bequeme Poolreinigung. Unsere Poolroboter sind einfach zu bedienen und effizient in der Reinigung Ihres Pools. Garantiert f\u00fcr ein sauberes und kristallklares Wasser, ohne stundenlanges manuelles Reinigen. Besuchen Sie jetzt unseren Online-Shop, um den perfekten Poolroboter f\u00fcr Ihre Bed\u00fcrfnisse zu finden."
+          },
+          {
+            "title": "Poolkescher",
+            "text": "Ein <a href=\"/kategorie/poolkescher/\" title=\"Poolkescher\">Poolkescher</a> ist ein unverzichtbares Werkzeug f\u00fcr jeden Poolbesitzer. Wir bieten eine gro\u00dfe Auswahl an Poolkeschern in verschiedenen Gr\u00f6\u00dfen und Formen, damit Sie den perfekten f\u00fcr Ihre Bed\u00fcrfnisse finden k\u00f6nnen. Unsere Poolkescher sind robust und langlebig, damit Sie lange Freude an Ihrem Pool haben. Besuchen Sie jetzt unseren Online-Shop, um den perfekten Poolkescher zu finden."
+          },
+          {
+            "title": "Bodenschutzmatten Pool",
+            "text": "Sch\u00fctzen Sie den Boden Ihres Pools mit unseren hochwertigen Bodenschutzmatten. Unsere Bodenschutzmatten sind langlebig und bieten eine rutschfeste Oberfl\u00e4che, um Unf\u00e4lle im Pool zu vermeiden. Au\u00dferdem sch\u00fctzen sie den Boden Ihres Pools vor Sch\u00e4den durch Stuhlbeine oder andere Gegenst\u00e4nde. Besuchen Sie jetzt unseren Online-Shop, um die perfekte Bodenschutzmatte f\u00fcr Ihren Pool zu finden."
+          },
+          {
+            "title": "Pool Reiniger",
+            "text": "Mit einem <a href=\"/kategorie/pool-reiniger/\" title=\"Pool Reiniger\">Pool Reiniger</a> von Poolflow.de, k\u00f6nnen Sie sich umfassend um Ihren Pool k\u00fcmmern. Die ausgew\u00e4hlten Reiniger sorgen f\u00fcr eine gr\u00fcndliche Reinigung und eine hygienische Wasserqualit\u00e4t. Erh\u00e4ltlich sind unter anderem manuelle oder automatisierte Reinigungssysteme. Entdecken Sie jetzt das umfassende Angebot an Pool Reinigern und verbessern Sie die Pflege Ihres Pools."
+          },
+          {
+            "title": "Pool Filtermedien",
+            "text": "Eine funktionierende Filteranlage ist f\u00fcr einen sauberen und hygienischen Pool unerl\u00e4sslich. Poolflow.de bietet Ihnen eine gro\u00dfe Auswahl an hochwertigen <a href=\"/kategorie/pool-filtermedien/\" title=\"Pool Filtermedien\">Pool Filtermedien</a>, die f\u00fcr eine optimale Wasserqualit\u00e4t sorgen. Ob Sand, Zeolith oder andere Filtermedien, hier finden Sie garantiert das passende Produkt f\u00fcr Ihre Filteranlage. \u00dcberzeugen Sie sich jetzt von der Qualit\u00e4t unserer Pool Filtermedien."
+          },
+          {
+            "title": "Pool Heizung",
+            "text": "Mit einer <a href=\"/kategorie/pool-heizung/\" title=\"Pool Heizung\">Pool Heizung</a> von Poolflow.de, k\u00f6nnen Sie Ihren Pool das ganze Jahr \u00fcber nutzen. Ob Solarheizung, W\u00e4rmepumpe oder andere Heizsysteme, hier finden Sie eine gro\u00dfe Auswahl an innovativen L\u00f6sungen. Entdecken Sie jetzt das umfassende Angebot an Pool Heizungen und erleben Sie unbesorgte Badefreuden in Ihrem eigenen Pool."
+          },
+          {
+            "title": "Pool W\u00e4rmepumpen",
+            "text": "Erh\u00f6hen Sie den Komfort in Ihrem Pool mit einer Pool W\u00e4rmepumpe von Poolflow.de. Unsere W\u00e4rmepumpen sind energiesparend und langlebig und sorgen f\u00fcr eine angenehme Wassertemperatur. St\u00f6bern Sie jetzt durch unser Sortiment und finden Sie die perfekte L\u00f6sung f\u00fcr Ihren Pool."
+          },
+          {
+            "title": "Kartuschenfilter",
+            "text": "Mit den <a href=\"/kategorie/kartuschenfilter/\" title=\"Kartuschenfilter\">Kartuschenfilter</a>n von Poolflow.de haben Sie eine effiziente L\u00f6sung f\u00fcr die Reinigung Ihres Pools. Unsere Kartuschenfilter sind einfach zu installieren und zu warten und sorgen f\u00fcr kristallklares Wasser. St\u00f6bern Sie jetzt durch unser Sortiment und finden Sie den perfekten Kartuschenfilter f\u00fcr Ihren Pool."
+          },
+          {
+            "title": "Outdoor Duschen",
+            "text": "Erfrischen Sie sich nach einem erholsamen Bad im Pool mit einer Outdoor Dusche von Poolflow.de. Unsere <a href=\"/kategorie/outdoor-duschen/\" title=\"Outdoor Duschen\">Outdoor Duschen</a> sind robust und langlebig und bieten eine angenehme M\u00f6glichkeit, sich nach dem Schwimmen abzuk\u00fchlen. St\u00f6bern Sie jetzt durch unser Sortiment und finden Sie die perfekte Outdoor Dusche f\u00fcr Ihren Pool."
+          },
+          {
+            "title": "Pool Vlies",
+            "text": "Das <a href=\"/kategorie/pool-vlies/\" title=\"Pool Vlies\">Pool Vlies</a> von Poolflow.de ist die perfekte L\u00f6sung f\u00fcr den Schutz Ihres Pools. Es sch\u00fctzt den Boden Ihres Pools vor Besch\u00e4digungen und verl\u00e4ngert die Lebensdauer Ihres Pools. Das Vlies ist einfach zu installieren und leicht zu reinigen. Es ist auch langlebig und robust, so dass Sie es jahrelang nutzen k\u00f6nnen. Schauen Sie sich jetzt das Pool Vlies auf Poolflow.de an und entdecken Sie die Vorteile f\u00fcr Ihren Pool."
+          },
+          {
+            "title": "WPC Pool",
+            "text": "Der <a href=\"/kategorie/wpc-pool/\" title=\"WPC Pool\">WPC Pool</a> auf Poolflow.de bietet Ihnen eine moderne und langlebige Option f\u00fcr den Bau Ihres eigenen Pools. Dieser Pool besteht aus WPC, einem hochwertigen Material, das robust und langlebig ist. Es ist auch pflegeleicht und widerstandsf\u00e4hig gegen Witterungseinfl\u00fcsse. Mit einem WPC Pool von Poolflow.de k\u00f6nnen Sie sicher sein, dass Sie einen Pool haben, der jahrelang h\u00e4lt. Schauen Sie sich jetzt die WPC Pool-Optionen auf Poolflow.de an."
+          },
+          {
+            "title": "Poolpumpen",
+            "text": "Die <a href=\"/kategorie/poolpumpen/\" title=\"Poolpumpen\">Poolpumpen</a> auf Poolflow.de sind die perfekte L\u00f6sung f\u00fcr den Betrieb Ihres Pools. Sie sorgen f\u00fcr eine optimale Wasserzirkulation und erm\u00f6glichen eine effektive Reinigung des Pools. Die Poolpumpen sind auch energiesparend und langlebig, so dass Sie lange Freude an Ihrem Pool haben werden. Schauen Sie sich jetzt die Poolpumpen auf Poolflow.de an und finden Sie die perfekte L\u00f6sung f\u00fcr Ihren Pool."
+          },
+          {
+            "title": "Einbaupool Abdeckungen",
+            "text": "Entdecken Sie bei Poolflow.de eine gro\u00dfe Auswahl an <a href=\"/kategorie/einbaupool-abdeckungen/\" title=\"Einbaupool Abdeckungen\">Einbaupool Abdeckungen</a>. Wir bieten Ihnen hochwertige Abdeckungen f\u00fcr Ihren Einbaupool, damit Sie Ihr Poolwasser sauber und gesch\u00fctzt halten k\u00f6nnen. Unsere Abdeckungen sind langlebig und einfach zu installieren. Schauen Sie sich jetzt unser Angebot an und finden Sie die perfekte Abdeckung f\u00fcr Ihren Pool."
+          },
+          {
+            "title": "Pool Verrohrung",
+            "text": "Bei Poolflow.de finden Sie alles, was Sie f\u00fcr die Verrohrung Ihres Pools ben\u00f6tigen. Unser Sortiment umfasst hochwertige Verrohrungen in verschiedenen Gr\u00f6\u00dfen und Materialien, damit Sie Ihren Pool optimal verrohren k\u00f6nnen. \u00dcberzeugen Sie sich selbst von unserer gro\u00dfen Auswahl und finden Sie die perfekte Verrohrung f\u00fcr Ihren Pool."
+          },
+          {
+            "title": "Pool Reparatur",
+            "text": "Haben Sie ein Problem mit Ihrem Pool? Kein Problem, bei Poolflow.de finden Sie alles, was Sie f\u00fcr die Reparatur Ihres Pools ben\u00f6tigen. Von Ersatzteilen bis hin zu Reparaturanleitungen haben wir alles, was Sie brauchen. \u00dcberzeugen Sie sich selbst von unserem umfassenden Angebot und reparieren Sie Ihren Pool schnell und einfach."
+          },
+          {
+            "title": "Pool Ersatzteile",
+            "text": "Suchen Sie nach hochwertigen <a href=\"/kategorie/pool-ersatzteile/\" title=\"Pool Ersatzteile\">Pool Ersatzteile</a>n f\u00fcr Ihr Schwimmbad? Dann sind Sie bei uns genau richtig! Bei Poolflow finden Sie eine gro\u00dfe Auswahl an Ersatzteilen f\u00fcr Pools in bester Qualit\u00e4t. Ob Sie ein neues Ventil, eine neue Pumpe oder einen Ersatzfilter ben\u00f6tigen - bei uns werden Sie f\u00fcndig. St\u00f6bern Sie jetzt in unserem Sortiment und finden Sie das passende Ersatzteil f\u00fcr Ihr Pool!"
+          },
+          {
+            "title": "Poolskimmer",
+            "text": "Ein <a href=\"/kategorie/poolskimmer/\" title=\"Poolskimmer\">Poolskimmer</a> ist ein unverzichtbares Zubeh\u00f6r f\u00fcr jedes Schwimmbad. Er sorgt daf\u00fcr, dass das Wasser sauber und frei von Bl\u00e4ttern, Insekten und anderen Partikeln bleibt. Bei Poolflow finden Sie eine gro\u00dfe Auswahl an Poolskimmern in verschiedenen Gr\u00f6\u00dfen und Ausf\u00fchrungen. W\u00e4hlen Sie das passende Modell f\u00fcr Ihren Pool und garantieren Sie sich und Ihren G\u00e4sten stets sauberes Wasser. St\u00f6bern Sie jetzt in unserem Sortiment!"
+          },
+          {
+            "title": "Solarabsorber",
+            "text": "Suchen Sie nach einer effektiven und umweltfreundlichen M\u00f6glichkeit, Ihr Schwimmbad zu beheizen? Dann sind <a href=\"/kategorie/solarabsorber/\" title=\"Solarabsorber\">Solarabsorber</a> die perfekte L\u00f6sung f\u00fcr Sie! Bei Poolflow finden Sie eine gro\u00dfe Auswahl an Solarabsorbern in bester Qualit\u00e4t. Diese absorbieren die Sonnenenergie und nutzen sie, um das Wasser im Pool aufzuheizen. So k\u00f6nnen Sie jederzeit angenehm warmes Wasser genie\u00dfen, ohne dabei unn\u00f6tig Energie zu verschwenden. St\u00f6bern Sie jetzt in unserem Sortiment!"
+          },
+          {
+            "title": "Smart Pool",
+            "text": "Entdecken Sie die neuesten Technologien im Bereich <a href=\"/kategorie/smart-pool/\" title=\"Smart Pool\">Smart Pool</a>s bei Poolflow.de. Wir bieten eine breite Auswahl an innovativen und vernetzten L\u00f6sungen f\u00fcr Ihren Pool, um das Schwimmen noch angenehmer und bequemer zu gestalten. Von automatischer Reinigung bis hin zur ferngesteuerten Regulierung der Wassertemperatur, bleiben keine W\u00fcnsche offen. Besuchen Sie uns jetzt und machen Sie Ihren Pool smart!"
+          },
+          {
+            "title": "Gegenstromanlage",
+            "text": "Erleben Sie ein unvergessliches Schwimmvergn\u00fcgen mit einer <a href=\"/kategorie/gegenstromanlage/\" title=\"Gegenstromanlage\">Gegenstromanlage</a>. Poolflow.de bietet Ihnen eine breite Auswahl an hochwertigen und zuverl\u00e4ssigen Gegenstromanlagen, die ein realistisches Freiwasserschwimmen im eigenen Pool erm\u00f6glichen. Von kompakten und preisg\u00fcnstigen Modellen bis hin zu high-end Anlagen, finden Sie bei uns genau das Richtige f\u00fcr Ihre Bed\u00fcrfnisse. Besuchen Sie uns jetzt und genie\u00dfen Sie das Schwimmvergn\u00fcgen!"
+          },
+          {
+            "title": "Winterabdeckung",
+            "text": "Sch\u00fctzen Sie Ihren Pool vor Sch\u00e4den in der kalten Jahreszeit mit einer <a href=\"/kategorie/winterabdeckung/\" title=\"Winterabdeckung\">Winterabdeckung</a>. Poolflow.de bietet Ihnen eine gro\u00dfe Auswahl an hochwertigen und langlebigen Winterabdeckungen, die Ihren Pool vor Schmutz, Laub und anderen Umwelteinfl\u00fcssen sch\u00fctzen. Von einfachen und preisg\u00fcnstigen L\u00f6sungen bis hin zu robusten und langlebigen Abdeckungen, finden Sie bei uns genau das Richtige. Besuchen Sie uns jetzt und sichern Sie Ihren Pool!"
+          },
+          {
+            "title": "Pool\u00fcberdachung",
+            "text": "Entdecken Sie unser umfangreiches Angebot an <a href=\"/kategorie/poolueberdachung/\" title=\"Pool\u00fcberdachung\">Pool\u00fcberdachung</a>en bei Poolflow.de. Wir bieten eine Vielzahl von Optionen f\u00fcr jeden Bedarf, einschlie\u00dflich festen und beweglichen \u00dcberdachungen. Sch\u00fctzen Sie Ihren Pool vor den Elementen und erh\u00f6hen Sie die Sicherheit mit einer Pool\u00fcberdachung von Poolflow.de."
+          },
+          {
+            "title": "Pool Sicherheit",
+            "text": "Sicherheit geht bei Poolflow.de immer vor. Entdecken Sie unser Angebot an <a href=\"/kategorie/pool-sicherheit/\" title=\"Pool Sicherheit\">Pool Sicherheit</a>sprodukten wie Alarmsysteme, Abdeckungen und Gel\u00e4nder. Vermeiden Sie Unf\u00e4lle und geben Sie sich und Ihren Lieben die Gewissheit, dass Ihr Pool sicher ist. St\u00f6bern Sie jetzt durch unsere Auswahl an Pool Sicherheitsprodukten."
+          },
+          {
+            "title": "Poold\u00fcsen",
+            "text": "Verbessern Sie Ihre Pool-Erfahrung mit den richtigen <a href=\"/kategorie/poolduesen/\" title=\"Poold\u00fcsen\">Poold\u00fcsen</a>. Bei Poolflow.de bieten wir eine breite Palette an Poold\u00fcsen, einschlie\u00dflich Massaged\u00fcsen, Bodend\u00fcsen und Str\u00f6mungsd\u00fcsen. Entdecken Sie jetzt unsere Auswahl und finden Sie die perfekten Poold\u00fcsen, um Ihren Pool auf die n\u00e4chste Stufe zu bringen."
+          },
+          {
+            "title": "Pool Salzanlage",
+            "text": "Die <a href=\"/kategorie/pool-salzanlage/\" title=\"Pool Salzanlage\">Pool Salzanlage</a> ist eine moderne Art, das Wasser in Ihrem Pool zu reinigen und hygienisch zu halten. Mit einer Pool Salzanlage k\u00f6nnen Sie sicher sein, dass das Wasser in Ihrem Pool stets frisch und sauber ist. Auf Poolflow.de finden Sie eine breite Auswahl an hochwertigen Pool Salzanlagen, die Ihnen eine einfache und effektive Reinigung garantieren. Egal ob Sie einen gro\u00dfen oder kleinen Pool besitzen, bei uns finden Sie die passende Pool Salzanlage f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Einbaupools",
+            "text": "<a href=\"/kategorie/einbaupools/\" title=\"Einbaupools\">Einbaupools</a> bieten Ihnen die M\u00f6glichkeit, Ihren Garten in eine eigene Wohlf\u00fchloase zu verwandeln. Bei Poolflow.de finden Sie eine gro\u00dfe Auswahl an hochwertigen Einbaupools, die Ihnen maximale Flexibilit\u00e4t und individuelle Gestaltungsm\u00f6glichkeiten bieten. Ob rund, oval oder rechteckig, wir haben f\u00fcr jeden Bedarf das passende Einbaupool. \u00dcberzeugen Sie sich selbst und entdecken Sie jetzt unser Sortiment an Einbaupools auf Poolflow.de."
+          },
+          {
+            "title": "Poolbau",
+            "text": "Der <a href=\"/kategorie/poolbau/\" title=\"Poolbau\">Poolbau</a> ist ein gro\u00dfes Projekt, das sorgf\u00e4ltige Planung und Umsetzung erfordert. Bei Poolflow.de finden Sie alles, was Sie f\u00fcr den Bau Ihres eigenen Pools ben\u00f6tigen. Von Poolfolien \u00fcber Poolpumpen bis hin zu Poolzubeh\u00f6r bieten wir Ihnen eine breite Auswahl an hochwertigen Produkten zu attraktiven Preisen. Lassen Sie sich von uns inspirieren und starten Sie jetzt mit dem Bau Ihres eigenen Pools auf Poolflow.de."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Passende Produkte bei uns entdecken!",
-        "defaultMetaDescription": "Finden Sie das richtige Produkt für Ihren Pool in unserer Kategorie $KATEGORIE: Einfach Online bei uns bestellen und per Mausklick nach Hause liefern lassen.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Poolflow.de | Der Pool-Shop",
+      "metaDescription": "Entdecken Sie in unserem Shop die besten Markenprodukte: Sicher, zuverl\u00e4ssig und langlebig. Alles zum Thema Pools & Zubeh\u00f6r von A-Z.",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "$HERSTELLER - Eine gute Wahl!",
-        "defaultMetaDescription": "In unserem Shop finden Sie die besten Hersteller zum Thema Pools & Zubehhör. Einfach online die Produkte von $HERSTELLER und vielen weiteren entdecken!",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Pools",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Pools Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Pools Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Poolflow.de | Top Marken f\u00fcr Pools & Zubeh\u00f6r",
+      "metaDescription": "\u00dcberzeugen Sie sich von unseren hochwertigen Marken und deren erstklassigen Qualit\u00e4tsprodukten. Wir f\u00fchren Anbieter wie OBI | Home Deluxe | Gardena | uvm.",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT | poolflow.de",
+    "defaultMetaDescription": "Entdecken Sie bei uns $PRODUKT vom Hersteller $HERSTELLER und weitere Produkte in der Kategorie $KATEGORIE. Hochwertig & Langlebig.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE: Passende Produkte bei uns entdecken!",
+    "defaultMetaDescription": "Finden Sie das richtige Produkt f\u00fcr Ihren Pool in unserer Kategorie $KATEGORIE: Einfach Online bei uns bestellen und per Mausklick nach Hause liefern lassen.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "$HERSTELLER - Eine gute Wahl!",
+    "defaultMetaDescription": "In unserem Shop finden Sie die besten Hersteller zum Thema Pools & Zubehh\u00f6r. Einfach online die Produkte von $HERSTELLER und vielen weiteren entdecken!",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Pools",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Pools Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Pools Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
